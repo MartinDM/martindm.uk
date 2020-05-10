@@ -1,0 +1,33 @@
+@import './11ty.scss';
+@import './base';
+
+/* BIO sidebar */
+
+.bio {
+  &__title {
+
+  }
+}
+
+.contacts {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  li + li { 
+    margin-left: 20px;
+  }
+  img {
+    width: 50px;
+  }
+}
+
+.nav {
+  grid-column-start: 1;
+  grid-column-end: 2;
+}
+
+/*  LAYOUT  */
+.outer-grid {
+  display: grid;
+  grid-template-columns: repeat( minmax(200px, 100%), 3fr)
+}

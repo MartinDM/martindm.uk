@@ -1,0 +1,22 @@
+:root {
+  --red: #C5004A;
+  --darkred: #7F0036;
+  --cyan: #B2EFEB;
+  --lightgrey: #e0e0e0;
+  --grey: #C0C0C0;
+  --darkgrey: #455062;
+  --navy: #17050F;
+  --blue: #082840; 
+  --white: #fff;
+}
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Raleway', 'Arial', sans-serif;
+  color: var(--darkgrey);
+  background-color: var(--white);
+}

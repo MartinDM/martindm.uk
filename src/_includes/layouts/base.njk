@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ metadata.title }}</title>
+    <meta name="Description" content="{{  metadata.description }}">
+    <link rel="stylesheet" href="{{ 'css/main.css' | url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+  </head>
+  <body>
+    <div class="outer-grid">
+      <ul class="nav">
+        {%- for entry in collections.all | eleventyNavigation %}
+          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+        {%- endfor %}
+      </ul>
+      <header class="bio">
+        <div class="bio__title">
+          <img src="./img/martin-bio.png" alt="Martin di Martino-Marriott">
+          <h1><a href="{{ '/' | url }}">Martin <span>di Martino-Marriott</span></a></h1>
+        </div>
+        <p>Martin is a Nottingham-based front-end web developer, currently working with Kainos.</p>
+        <p>Passionate about learning, building and supporting services and user experiences that matter.</p>
+        <ul class="contacts">
+          <li><a href=""><img src="img/twitter.svg" alt="Twitter"></a></li>
+          <li><a href=""><img src="./img/github.svg" alt="Github"></a></li>
+          <li><a href=""><img src="./img/linkedin.svg" alt="LinkedIn"></a></li>
+          <li><a href=""><img src="./img/instagram.svg" alt="Instagram"></a></li>
+          <li><a href="mailto:hello@matindm.uk"><img src="./img/email.svg" alt="Email"></a></li>
+        </ul> 
+      </header>
+      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+        {{ page.title | url }}
+      </main>
+    </div>
+  </body>
+</html>
