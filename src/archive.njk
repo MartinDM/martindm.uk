@@ -1,12 +1,12 @@
 ---
-layout: layouts/home.njk
+layout: layouts/base.njk
+title: Archive
+templateClass: tmpl-archive
 permalink: /posts/
 eleventyNavigation:
-  key: Posts
-  order: 2
+  key: Archive
+  order: 5
 ---
-
-<h1>Archive</h1>
 
 {% set postslist = collections.posts %}
 {% include "postslist.njk" %}

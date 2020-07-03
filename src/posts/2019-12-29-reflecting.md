@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: layouts/post.njk
 title: Reflecting on 2019 - A personal Annual Review template
-tags: stocisim, journaling, reflection
+tags: stoicisim, journaling, reflection
 category: journaling
+date: 2019-12-29
 ---
 
 Coming to the end of 2019; it's a time we might reflect on the year past. A retrospective, to identify what matters, and re-focus our attention during the year ahead.
@@ -60,12 +61,12 @@ I'd even suggest there may not even *be* another way to overcome challenges that
 
 Our learned beliefs can keep us tethered to past versions of ourselves, yet can be overcome if only we allow ourselves to merely be braver distinct from waiting for certainty to make us less anxious.
 
-## Just starting...
+## Just start...
 
 It can be difficult to start journaling; questions about time of day, frequency, what to even write, can thwart our motivation. But I’d advocate for blind ‘doing’ in this case - just start, and take the lead from what you find valuable and the insight you'll start to gain about your very nature.
 
 > Waste no time arguing what a good man should be. Be one  
-> - Marcus Aurelius, Meditations
+> *- Marcus Aurelius, Meditations*
 
 In doing a personal Annual Review, it can be difficult, even daunting to know what to write about for the whole year! I certainly found this and enjoy reading what others might include; I mean, can we really remember what we got up to at the start of the year, especially if not armed with a years' reflections to draw upon!
 
@@ -78,4 +79,4 @@ Have a Stoic 2020!
 ## References and recommended stoic reading
 
 - [Marcus Aurelius - Meditations](https://www.amazon.co.uk/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337/ref=sr_1_1?keywords=meditations&qid=1577666508&sr=8-1)
-- James Clear, Atomic Habits
+- [James Clear, Atomic Habits](https://amzn.to/2F2WKij)

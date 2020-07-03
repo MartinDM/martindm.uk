@@ -1,22 +1,33 @@
 :root {
+  --content: #455062;
   --red: #C5004A;
   --darkred: #7F0036;
   --cyan: #B2EFEB;
-  --lightgrey: #e0e0e0;
-  --grey: #C0C0C0;
-  --darkgrey: #455062;
-  --navy: #17050F;
-  --blue: #082840; 
-  --white: #fff;
+  --lightgrey: #AEB0C7;
+  --darkgrey: #2E2E2E;
+  --blueGrey: #929DB1; 
+  --maxWidth: 1300px;
+  --bp1: 500px;
 }
 * {
   box-sizing: border-box;
 }
-html,
-body {
+
+html {
+  font-size: 62.5%;
+  background: rgb(236,239,244);
+  background: linear-gradient(180deg, rgba(236,239,244,1) 33%, rgba(255,255,255,0.8071603641456583) 91%);
+}
+
+body, html {
   padding: 0;
+  color: var(--content);
   margin: 0;
-  font-family: 'Raleway', 'Arial', sans-serif;
-  color: var(--darkgrey);
-  background-color: var(--white);
+  font-family: 'Raleway', 'Arial', sans-serif; 
+  font-weight: 400;
+  line-height: 1.7;
+  font-size: 1.1rem;
+  @media(min-width: var(--bp1)) {
+     font-size: 1rem;
+  }
 }

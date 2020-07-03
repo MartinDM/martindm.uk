@@ -3,6 +3,7 @@ layout: post
 title: On Developer Maturity
 tags: maturity, careers, development, seniors, teams
 category: work
+date: 2017-07-20
 img: presentation-prep.jpg
 ---
 

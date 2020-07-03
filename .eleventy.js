@@ -11,11 +11,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginSyntaxHighlight);
   eleventyConfig.addPlugin(pluginNavigation);
   eleventyConfig.setDataDeepMerge(true);
+  eleventyConfig.addShortcode('excerpt', article => extractExcerpt(article));
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("dd LLL yyyy");
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL yyyy");
   });
 
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
@@ -43,6 +44,7 @@ module.exports = function(eleventyConfig) {
     breaks: true,
     linkify: true
   }).use(markdownItAnchor, {
+    level: [1,2],
     permalink: true,
     permalinkClass: "direct-link",
     permalinkSymbol: "#"
@@ -94,4 +96,34 @@ module.exports = function(eleventyConfig) {
       output: "_site"
     }
   };
+
 };
+
+function extractExcerpt(article) {
+  if (!article.hasOwnProperty('templateContent')) {
+    console.warn('Failed to extract excerpt: Document has no property "templateContent".');
+    return null;
+  }
+ 
+  let excerpt = null;
+  const content = article.templateContent;
+ 
+  // The start and end separators to identify the excerpt
+  const separatorsList = [
+    { start: '<!-- summary -->', end: '<!-- /summary -->' },
+    { start: '<p>', end: '</p>' }
+  ];
+ 
+  separatorsList.some(separators => {
+    const startPosition = content.indexOf(separators.start);
+    const endPosition = content.indexOf(separators.end);
+ 
+    if (startPosition !== -1 && endPosition !== -1) {
+      excerpt = content.substring(startPosition + separators.start.length, endPosition).trim();
+      return true; // Exit out of array loop on first match
+    }
+  });
+ 
+  return excerpt;
+}
+

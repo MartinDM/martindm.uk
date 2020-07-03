@@ -4,7 +4,7 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 37.5em; /* 600px /16 */
+ // max-width: 37.5em; /* 600px /16 */
 }
 p,
 .tmpl-post li {
@@ -17,9 +17,6 @@ a[href]:visited {
   color: var(--navy);
 }
 
-main {
-  padding: 1rem;
-}
 main :first-child {
   margin-top: 0;
 }
@@ -76,24 +73,6 @@ pre {
   text-decoration: none;
 }
 
-/* Nav */
-.nav {
-  padding: 0;
-  list-style: none;
-  float: left;
-  margin-left: 1em;
-}
-.nav-item {
-  display: inline-block;
-  margin-right: 1em;
-}
-.nav-item a[href]:not(:hover) {
-  text-decoration: none;
-}
-.nav-item-active {
-  font-weight: 700;
-  text-decoration: underline;
-}
 
 /* Posts list */
 .postlist {

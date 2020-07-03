@@ -4,6 +4,7 @@ title: Sharing in Knowledge Organisations
 tags: teams, presentations, knowledge, teams
 category: work
 img: 01/art-of-code.jpg
+date: 2016-12-10
 ---
 
 > *The Art of Code*: At the agency I work at we run periodical show-and-tell events where our specialists in consumer trends, technology, digital and print design talk about what they’ve been working on and share their work with others in the business...and provide biscuits.
