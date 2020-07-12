@@ -1,5 +1,5 @@
 ---
-layout: layouts/post.njk
+layout: post
 title: Reflecting on 2019 - A personal Annual Review template
 tags: stoicisim, journaling, reflection
 category: journaling

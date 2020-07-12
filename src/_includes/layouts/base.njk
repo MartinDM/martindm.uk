@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ metadata.title }}</title>
     <meta name="Description" content="{{  metadata.description }}">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="{{ '/css/main.css' | url }}">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;600&display=swap" rel="stylesheet">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
   </head>
   <body>
@@ -35,9 +35,14 @@
       <div class="content" id="content">
         <main{% if templateClass %} class="{{ templateClass }}"{% endif %}> 
           
+          {% if layout === 'post' %}
+              <p class="content-nav"><a href="{{ '/' | url }}">← Back</a></p>
+          {% endif %} 
+
           {% if title !== 'Home' %}
             <h1 class="page-title {% if subtitle %} page-title--subtitle {% endif %}">{{ title }}</h1>
           {% endif %} 
+
           {% if subtitle %}
             <p class="page-title__sub-line">{{ subtitle }}</p>
           {% endif %}

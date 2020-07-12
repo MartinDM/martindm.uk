@@ -155,8 +155,7 @@ blockquote {
     }
   }
 
-  @media (min-width: $md) {
-    grid-template-columns: 100%;
+  @media (min-width: $md) { 
     padding-top: .5em;
   }
   &,
@@ -186,11 +185,6 @@ blockquote {
     + .post-list__item {
       padding-top: 1em;
     }
-  }
-  &__title {
-      font-size: 32px;
-      font-size: 1.7rem;
-      margin: 0;
   }
   &__link {
     text-decoration: none;
@@ -229,7 +223,7 @@ blockquote {
     display: block;
     font-size: 0.8rem;
     color: var(--lightgrey);
-    padding: 1em 0 1em 0;
+    padding: 0 0 1em 0;
   }
 }
 

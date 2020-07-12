@@ -2,7 +2,7 @@
 <ol class="post-list">
 {% for post in postslist | reverse %}
   <li class="post-list__item {% if post.url == url %} post-list-item--active{% endif %}">
-  <h2 class="post-list__title post-title">
+  <h2 class="post-title">
     <a href="{{ post.url | url }}" class="post-list__link">
         {% if post.data.title %}
           {{ post.data.title }}
