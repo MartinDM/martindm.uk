@@ -19,7 +19,7 @@
       <header class="bio">
         <div class="bio__title">
           <a href="{{ '/' | url }}">
-          <img src="/img/martin-bio.png" alt="Martin di Martino-Marriott" /></a>
+          <img src="/img/martin-bio-20.png" alt="Martin di Martino-Marriott" /></a>
           <h1> <a href="{{ '/' | url }}">Martin <span>di Martino-Marriott</span></a></h1>
         </div>
         <p>Martin is a Nottingham-based front-end web developer, currently working with Kainos.</p>
@@ -46,6 +46,7 @@
           {% if subtitle %}
             <p class="page-title__sub-line">{{ subtitle }}</p>
           {% endif %}
+
           {{ content | safe }}
           {{ page.title | url }}
         </main>
