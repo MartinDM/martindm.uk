@@ -4,14 +4,16 @@ title: On turning thirty-four; 34 lessons and ideas
 tags: stocisim, life, reflection
 category: life, lessons
 ---
+<!-- summary -->
+Let's recognise there's little more trite than for twenty/thirty-somethings to think that on each advance in years it's incumbent upon them to impart some *Definitely-new* wisdom on the world; as if my years during a relatively prosperous moment in history have gifted me any measure of wisdom...
+<!-- /summary -->
 
-Let's recognise there's little more trite than for twenty/thirty-somethings to think that on each advance in years it's incumbent upon them to impart some *Definitely-new* wisdom on the world; years during a relatively prosperous moment in history, I could have acquired any measure of wisdom.
 
-Having turned 34 this week, and as good a time as any arbitrary date, reflected on the things I had written down for myself, or thought about to get me here more or less in one piece, in a similar vein as Kevin Kelly's epic, <a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">68 bits of unsolicited advice on turning 68</a> and Jamie Alderton's post at <a href="https://medium.com/@Grenadejay/every-year-on-my-birthday-i-write-a-massive-list-of-things-that-have-helped-me-throughout-the-year-a59b33e5cfd">34</a>. By no means an exhaustive list, but are some key ideas I think about or have learned the hard way.
+That said, I ask you humour me! Having turned 34 this week, and as good a time as any arbitrary date, I reflected on the things I'd written down; guard rails and maxims to got me here more or less in one piece, in a similar vein as Kevin Kelly's epic, <a href="https://kk.org/thetechnium/68-bits-of-unsolicited-advice/">68 bits of unsolicited advice on turning 68</a> and Jamie Alderton's post at <a href="https://medium.com/@Grenadejay/every-year-on-my-birthday-i-write-a-massive-list-of-things-that-have-helped-me-throughout-the-year-a59b33e5cfd">34</a>. By no means an exhaustive list, but are some key ideas I think about or have learned the hard (usually socially-fraught!) way.
 
-It's impossible to be around for even this modest amount of time without encountering our own measure of life's challenges, and I have found solace and guidance through journaling and from writers and historical figures; Ryan Holiday, Marcus Aurelius, James Clear, Alain de Botton - on life's major project: *How to Live*.
+Amid life's varied terrain, I have found solace and guidance through journaling and from writers and historical figures; Ryan Holiday, Marcus Aurelius, James Clear, Alain de Botton - on life's major project: of *How to Live*.
 
-**Let's get into it with my 34 pieces of unsolicited advice and learings!...**
+**Let's get into it with my 34 pieces of unsolicited advice and learnings!...**
 
 1. On habits, you create *them*, and they compound and make *you*.
 
@@ -35,19 +37,19 @@ It's impossible to be around for even this modest amount of time without encount
 
 11. Be nice to everyone on the way up; you'll see them on the way down. You will come down.
 
-13. What you eat is one of the most powerful levers we have on almost every other aspect of your goals in life. Habituate it to automate it towards what will support you.
+12. What you eat is one of the most powerful levers we have on almost every other aspect of your goals in life. Habituate it to automate it towards what will support you.
 
-14. We worry inordinately about what other people think of us, until we realise how seldom we enter into their thoughts; less actively invite ill will. This is freeing to realise. We are each already about as much as we can handle. Those who matter don't care...
+13. We worry inordinately about what other people think of us, until we realise how seldom we enter into their thoughts; less actively invite ill will. This is freeing to realise. We are each already about as much as we can handle. Those who matter don't care...
 
-15. Reflect often on what matters to you and check you're living in alignment with your values. Things get lost in life, so we need to check in frequently to avoid longer term resentment, or worse, willful ignorance.
+14. Reflect often on what matters to you and check you're living in alignment with your values. Things get lost in life, so we need to check in frequently to avoid longer term resentment, or worse, willful ignorance.
 
-16. Time is our most valuable, non-renewable resource, yet is the first we give away. Each thing we say yes to, is to say no to something else.
+15. Time is our most valuable, non-renewable resource, yet is the first we give away. Each thing we say yes to, is to say no to something else.
 
-17. The most powerful way to connect with someone is to go first. Most people are guarded, which stands in the way of true connection. Give them permission, show vulnerability, and go first.
+16. The most powerful way to connect with someone is to go first. Most people are guarded, which stands in the way of true connection. Give them permission, show vulnerability, and go first.
 
-18. We each seek a troop; a tribe. Be deliberate in choosing and reviewing who makes it into this circle, and that they are there to support you. We we develop it will become necessary to change who your tribe is.
+17. We each seek a troop; a tribe. Be deliberate in choosing and reviewing who makes it into this circle, and that they are there to support you. We we develop it will become necessary to change who your tribe is.
 
-19. Undertake voluntary hardship said stoic Epictetus; fasting, sleeping on the floor, a walk in the cold, a cold shower. This prevents us holding on to and regarding comfort.
+18. Undertake voluntary hardship said stoic Epictetus; fasting, sleeping on the floor, a walk in the cold, a cold shower. This prevents us holding on to and regarding comfort.
 Seneca too speaks about *negative visualisation*; to imagine at frequent intervals that things will soon not be as they are and that we will one day have to be courageous. This allows us to enjoy the temporary things we have, but know in ourselves we do not require them.
 
 1.  In minimalism, the goal is to not have the most or least number of things, but the optimal number of things. 
