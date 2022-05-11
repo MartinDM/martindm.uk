@@ -2,7 +2,7 @@
 layout: layouts/base.njk
 title: Now
 templateClass: tmpl-page
-subtitle: Updated May 222
+subtitle: Updated May 2022
 eleventyNavigation:
   key: Now
   order: 2
