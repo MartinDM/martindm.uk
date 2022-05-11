@@ -8,18 +8,21 @@ eleventyNavigation:
 ---
 
 
-I'm a Front-end Engineer from Nottingham. Passionate about the front-end; building applications that matter and taking ownership of performance, and the whole user experience.
+I'm a Lead Front-end Engineer from Nottingham currently working with the product teams at Fleetcor. Passionate about the front-end; building applications that matter and taking ownership of ensuring a quality experience and business outcomes from products!
 
 You can message me on [hello@martindm.uk](mailto:hello@martindm.uk)
 
 Check out what I'm *currently* working on at my [Now](/now) page!
 
 ## What I do
-Currently Senior Front-end Engineer with Digital Services consultancy [@KainosSoftware](Kainos) working alongside a team of brilliant Developers and UX Designers.
+Currently Lead Developer with Fleetcor working alongside a team of brilliant Developers and Product specialists.
 
-I love working and learning in agile, motivated teams who take ownership and pride in their work. Lover of philosophy and constant personal and technical development - I'm forever the student, and enjoy environments that allow me to achieve flow and Deep Work.
+I love working and learning in agile, motivated teams who take ownership and pride in their work and being guardians of quality products and user experiences. Lover of philosophy and constant personal and technical development - I'm forever the student, and enjoy environments that allow me to achieve flow and Deep Work.
 
-## Past projects with Kainos...
+## Past projects in consulting...
+
+### Home Office
+Working with Kainos and the internal product teams at HMPO, I was part of the design and React-build of a newly-improved, evolved Lost and Stolen Passport reporting service, enabling passport examiners to correctly investigate, identify and cancel compromised passports, meeting business SLAs, enabling efficient staff workflows and ensuring examiners have the right information to operate more efficiently using the new service.
 
 ### Telensa
 Working with Kainos Gdansk and Cambridge-based Telensa's [Urban Data Project](https://urbandataproject.org) to deliver the front-end and a design system for the new *City Data Guardian* platform. Built an Angular-based data-visualisation application to demonstrate the business value of environmental data from the platform.
