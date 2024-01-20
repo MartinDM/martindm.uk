@@ -15,13 +15,7 @@ eleventyNavigation:
 
 [![Album posters](/img/album-artwork-search.png)](https://mdm-itunes-search.surge.sh/)
 
-I recently made myself some posters of my favourite albums and needed some high quality album art to use for my designs...
-
-![Album posters](/img/posters.jpeg)
-
-I was able to get them via the Apple iTunes database using their API, so thought it would be a fun idea to turn it into an app.
-
-I imagined if I had a need for searchable album artwork for creative projects, surely others might!
+I was playing recently with the album and artist info available via the Apple iTunes database using their API, so thought it would be a fun idea to turn it into an app.
 
 I started with some Figma wireframes and a spec I'd set for myself such as the entity type and sizes I wanted to make available.
 
