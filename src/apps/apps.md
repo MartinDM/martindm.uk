@@ -15,11 +15,11 @@ eleventyNavigation:
 
 [![URL Shortener](/img/url-jam-app.png)](https://url-jam.vercel.app)
 
-I was playing recently with the album and artist info available via the Apple iTunes database using their API, so thought it would be a fun idea to turn it into an app.
+Building a URl Shotener is a great learning exercise in how to architect such an app and saw me working with the nuances of validating and correcting URL inputs, the `URL` API, `zod` library and Next14's new Server Components.
 
-I started with some Figma wireframes and a spec I'd set for myself such as the entity type and sizes I wanted to make available.
+It was a fun little project to do some high-contrast, bold styling in the UI too just using Tailwind, following a design I did in Figma.
 
-Built with Next14's Server Components, Prisma ORM, MongoDB and Tailwind
+Built with Next14 (TypeScript, Server Components), Prisma ORM, MongoDB, Zod validations, and Tailwind for styling.
 
 ## iTunes Music Artwork searcher
 
