@@ -7,6 +7,20 @@ eleventyNavigation:
   order: 1
 ---
 
+## Url:jam - URL Shortener
+
+🚀 [View online →](https://url-jam.vercel.app)
+
+💻[Repo](https://github.com/MartinDM/url-jam)
+
+[![URL Shortener](/img/url-jam-app.png)](https://url-jam.vercel.app)
+
+I was playing recently with the album and artist info available via the Apple iTunes database using their API, so thought it would be a fun idea to turn it into an app.
+
+I started with some Figma wireframes and a spec I'd set for myself such as the entity type and sizes I wanted to make available.
+
+Built with Next14's Server Components, Prisma ORM, MongoDB and Tailwind
+
 ## iTunes Music Artwork searcher
 
 🚀 [View online →](https://mdm-itunes-search.surge.sh/)
