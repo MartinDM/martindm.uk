@@ -9,13 +9,13 @@ eleventyNavigation:
 
 I'm a Senior Front-end Engineer from Nottingham, currently working at Vodafone on the Home Broadband web shop.
 
-You can message me on [hello@martindm.uk](mailto:hello@martindm.uk)
+You can message me on [martinonotts@gmail.com](mailto:martinonotts@gmail.com)
 
 Check out what I'm _currently_ working on at my [Now](/now) page!
 
 ## What I do
 
-I'm passionate about the front-end; building applications that matter and being part of high-performing, enthusiastic teams delivering a quality user experience.
+I'm passionate about the user experience; building applications that matter and being part of high-performing, enthusiastic teams delivering a quality, useful services.
 
 Lover of philosophy and constant personal and technical development - I have a growth mindset, and enjoy working environments that allow me to achieve flow and Deep Work.
 
