@@ -9,8 +9,6 @@ eleventyNavigation:
 
 I'm a Senior Front-end Engineer from Nottingham, currently working at Vodafone on the Home Broadband web shop.
 
-You can message me on [martinonotts@gmail.com](mailto:martinonotts@gmail.com)
-
 Check out what I'm _currently_ working on at my [Now](/now) page!
 
 ## What I do
@@ -33,20 +31,14 @@ Working with Kainos Gdansk and Cambridge-based Telensa's Urban Data Project to d
 
 Working with DVSA's Digital team to improvE and maintain the MOT Service used by thousands of mechanics every day.
 
-### NI Water
-
-Full re-brand of the website along with mobile optimisation and UX review of the customer dashboard.
-
-I have been fortunate enough in previous roles to work and learn alongside talented colleagues, building web interfaces for Post Office, Royal Mail, Pizza Hut, Argos and other consumer brands.
-
 ## Technology
 
 My core tools and experience are with Javascript (Es6), React, Jest/RTL, Cypress, Node/Express and Azure cloud services.
 
 ## What else?
 
-When not code mongering I'm usually [running around somewhere](https://www.strava.com/athletes/2986152/), [hitting the trails on my bike](https://www.instagram.com/martino_notts/), or bouldering.
+When not code mongering I'm usually hiking, or riding the trails or bouldering.
 
 ## Contact me
 
-[hello@martindm.uk](mailto:hello@martindm.uk)
+You can message me on [martindm.dev@gmail.com](mailto:martindm.dev@gmail.com)
