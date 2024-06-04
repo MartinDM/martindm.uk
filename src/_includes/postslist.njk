@@ -1,20 +1,32 @@
-
 <ol class="post-list">
-{% for post in postslist | reverse %}
-  <li class="post-list__item {% if post.url == url %} post-list-item--active{% endif %}">
-  <h2 class="post-title">
-    <a href="{{ post.url | url }}" class="post-list__link">
+  {% for post in postslist | reverse %}
+  <li
+    class="post-list__item {% if post.url == url %} post-list-item--active{% endif %}"
+  >
+    <h2 class="post-title">
+      <a href="{{ post.url | url }}" class="post-list__link">
         {% if post.data.title %}
-          {{ post.data.title }}
+        {{ post.data.title }}
         {% else %}{% endif %}
-    </a>
-  </h2>
-  <time class="post-list__date post-date" datetime="{{ post.date | htmlDateString }}">
-    {{ post.date | readableDate }}</time>
-    <p class="post-list__excerpt">{% excerpt post %} </p>
-  <a class="post-list__read-more" href="{{ post.url | url }}"
-   aria-label="Read more on {{ post.data.title }}">Read more →</a>
+      </a>
+    </h2>
+    <time
+      class="post-list__date post-date"
+      datetime="{{ post.date | htmlDateString }}">
+      {{ post.date | readableDate }}</time>
+    {% if post.data.previewImg %}
+    <div class="preview-img">
+     <a href="{{ post.url | url }}">
+      <img src="{{ post.data.previewImg}}" alt="{{ post.data.title }}" />
+      </a>
+    </div>
+    {% endif %}
+    <p class="post-list__excerpt">{% excerpt post %}</p>
+    <a
+      class="post-list__read-more"
+      href="{{ post.url | url }}"
+      aria-label="Read more on {{ post.data.title }}"
+      >Read more →</a>
   </li>
-{% endfor %}
+  {% endfor %}
 </ol>
- 

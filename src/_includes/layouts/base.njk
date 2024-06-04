@@ -19,7 +19,7 @@
       <header class="bio">
         <div class="bio__title">
           <a href="{{ '/' | url }}">
-          <img src="/img/martin-bio-20.png" alt="Martin di Martino-Marriott" /></a>
+          <img src="/img/martin-dm.jpeg" alt="Martin di Martino-Marriott" /></a>
           <h1> <a href="{{ '/' | url }}">Martin <span>di Martino-Marriott</span></a></h1>
         </div>
         <p>I'm a Front-end Software Engineer in Nottingham. Enthusiastic about engineering culture, teams, and delivering quality user experiences and services that matter.
@@ -33,10 +33,10 @@
         </ul> 
       </header>
       <div class="content" id="content">
-        <main{% if templateClass %} class="{{ templateClass }}"{% endif %}> 
+        <main {% if templateClass %} class="{{ templateClass }}"{% endif %}> 
           
           {% if layout === 'post' %}
-              <p class="content-nav"><a href="{{ '/' | url }}">← Back</a></p>
+              <p class="content-nav"><a href="{{ '/posts' | url }}">← Back</a></p>
           {% endif %} 
 
           {% if title !== 'Home' %}

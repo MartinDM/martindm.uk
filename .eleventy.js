@@ -15,6 +15,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addShortcode("excerpt", (article) => extractExcerpt(article));
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  eleventyConfig.addLayoutAlias("photo-post", "layouts/photo-post.njk");
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("LLL yyyy");
@@ -35,7 +36,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addCollection("tagList", require("./src/_11ty/getTagList"));
-
   eleventyConfig.addPassthroughCopy("./src/img");
   eleventyConfig.addPassthroughCopy("./src/css");
 
