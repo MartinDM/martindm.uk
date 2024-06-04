@@ -2,7 +2,7 @@
 
 Repo for my site [Martindm.uk](http://martindm.uk/) hosted on Vercel, built on the Eleventy static-site generator.
 
-<img width="1404" alt="Screenshot 2023-12-30 at 23 06 20" src="https://github.com/MartinDM/martindm.uk/assets/7467069/1b91151a-26e6-42f5-842b-35a14a310156">
+<img width="1092" alt="image" src="https://github.com/MartinDM/martindm.uk/assets/7467069/25fef53d-7833-4045-98bf-3f63d9cef6a1">
 
 ### Running locally
 
