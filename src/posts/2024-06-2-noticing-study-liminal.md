@@ -24,8 +24,7 @@ I'm often surprised how these oases are often empty; perhaps rightly seen as dat
     <img src="/img/photgraphy/study-laundrette/liminal-7.jpg" alt="">
     <img src="/img/photgraphy/study-laundrette/liminal-10.jpg" alt="">
     <img src="/img/photgraphy/study-laundrette/liminal-2.jpg" alt="">
-    <img src="/img/photgraphy/study-laundrette/liminal-3.jpg" alt="">
-    <img src="/img/photgraphy/study-laundrette/liminal-12.jpg" alt="">
+    <img src="/img/photgraphy/study-laundrette/liminal-3.jpg" alt=""> 
     <img src="/img/photgraphy/study-laundrette/liminal-5.jpg" alt="">
     <img src="/img/photgraphy/study-laundrette/liminal-6.jpg" alt="">
     <img src="/img/photgraphy/study-laundrette/liminal-9.jpg" alt="">
