@@ -6,34 +6,23 @@ Repo for my site [Martindm.uk](http://martindm.uk/) hosted on Vercel, built on t
 
 ### Running locally
 
-Absolutely!
-
 - Clone this repo
 - Install deps and run using these commands.
 
 ```
-npm install
+yarn
 ```
 
 - Run locally
 
 ```
-npm run serve
-```
-
-- Or run in dev watch mode to automatically show changes:
-
-```
-npm run watch
+yarn dev
 ```
 
 See `package.json` for additonal scripts
-
 Open the site on [http://localhost:8080](http://localhost:8080)
-
 
 ### Design and Implementation Notes
 
 - Initially designed using Figma, then used the structure in the [11ty Base blog](https://github.com/11ty/eleventy-base-blog)
-<img width="1478" alt="image" src="https://github.com/MartinDM/martindm.uk/assets/7467069/3158a044-9088-4f65-9cd0-d8ea35555a42">
-
+  <img width="1478" alt="image" src="https://github.com/MartinDM/martindm.uk/assets/7467069/3158a044-9088-4f65-9cd0-d8ea35555a42">
