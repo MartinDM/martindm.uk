@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  Embracing Competence: Redefining Senior Developer Identity and Learning
+  Developers: Stepping into Competence Identity
 tags: work, personal, reflection, teams, professional development, Senior
 category: career
 ---
