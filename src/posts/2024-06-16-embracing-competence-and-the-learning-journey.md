@@ -8,7 +8,7 @@ category: career
 
 <!-- summary -->
 
-Something I often hear and have experienced as the prevailing attitude in teams, particularly from Seniors, is this odd tendency to identify as incompetent.
+Something I often hear and have experienced as the prevailing attitude in teams, particularly from Seniors, is this odd tendency to identify in jest as incompetent.
 
 It’s celebrated very often, but not in what feels like an authentic way; more to caveat one’s contribution with the subtext that our work is ‘sold as seen, no refunds, I’m actually an imposter.’
 
