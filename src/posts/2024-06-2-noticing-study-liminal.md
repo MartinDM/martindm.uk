@@ -1,5 +1,5 @@
 ---
-layout: photo-post
+layout: post
 title: Photo study 1; Liminal space
 tags: photography, urban, study, walking, noticing, nottingham
 category: creativity, noticing, musings
