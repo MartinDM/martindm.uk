@@ -7,7 +7,7 @@ eleventyNavigation:
   order: 3
 ---
 
-I'm a Senior Front-end Engineer from Nottingham, currently working at Vodafone on the Home Broadband web shop.
+I'm a Senior Front-end Engineer from Nottingham.
 
 Check out what I'm _currently_ working on at my [Now](/now) page!
 
