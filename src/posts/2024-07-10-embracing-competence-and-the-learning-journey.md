@@ -30,7 +30,7 @@ This is not a failing; it’s how we reserve space in our working memory for thi
 
 The feeling of not knowing everything is just part of the journey we're on', rather than being some personal shortcoming and it’s not helpful to promote an expectation of lifelong incompetence to newer developers.
 
-Newer develoeprs _will_ reach the critical level of competence soon, and much sooner than one might think starting out, and so be similarly impactful; with confidence in their solutions, recommendations, and in time communication with the business at a higher level.
+Newer developers should instead expect to reach a critical level of competence, and much sooner than one might think starting out, and so be similarly impactful; with confidence in their solutions, recommendations, and in time communication with the business at a higher level.
 
 I'd go one further; it’s necessary as an effective, professional developer to step into trusting oneself; to _untrap_ and make bold, impactful decisions and communicate confidently to other devs and on behalf of Engineering priorities to the business.
 
