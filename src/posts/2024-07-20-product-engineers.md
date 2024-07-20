@@ -42,16 +42,23 @@ The article gives a model which I feel represents a vision for the necessary org
 
 Engineers here take initiative and are _enabled_ to have ownership of the end-to-end lifecycle from identifying the user and business needs with highest ROI, to development, testing and iteration based on feedback.
 
-## _What makes them unique is their focus on creating a product for users. They care about building a solution to problems that provides value to users. They must be empathetic to users, and this means caring about user feedback and usage data._
+<blockquote>
+What makes them unique is their focus on creating a product for users. They care about building a solution to problems that provides value to users. They must be empathetic to users, and this means caring about user feedback and usage data.
+</blockquote>
 
 Instead of perpetuating the traditional software lifecycle in a ‘project-oriented’ paradigm, we might as aspiring PEs, ask:
 
-1. **_“What is the user’s actual problem?”_**
-2. **_“What is the best solution for the user?”_**
+1. _“What is the user’s actual problem?”_
+2. _“What is the best solution for the user?”_
 
 As such, Product Engineers are heavily invested in market and user feedback. They are ‘_customer obsessed’_ and are opinionated about the roadmap for the product, building a deep understanding of the problem space, and then self-organise to build and iterate solutions.
 
-## "As a product engineer, writing code is just one part of [the] job. Product Engineers also talk to users, get involved with design, and _develop an opinion_ on what needs to exist in the world. Then you'll move with urgency to make it happen." - [Kushal Byatnal via Joe Albanese](https://twitter.com/josephpalbanese/status/1349669814046900227)
+<blockquote>
+"As a product engineer, writing code is just one part of [the] job. Product Engineers also talk to users, get involved with design, and _develop an opinion_ on what needs to exist in the world. Then you'll move with urgency to make it happen."
+ - <a href="https://twitter.com/josephpalbanese/status/1349669814046900227">
+Kushal Byatnal via Joe Albanese
+</a>
+</blockquote>
 
 The primary goal of the Product Engineer then - is in a more _direct_ way _than typically_ mandated in feature teams - about _building a great user experience_ and code we write as mere means.
 
@@ -83,7 +90,9 @@ But surely they need direction; to keep the product roadmap coherent.
 
 In a recent episode of Lenny’s podcast, Dylan Field, co-founder of Figma, discussed the role of Product Management, especially within Figma:
 
-## _...effective PMs communicate and define the strategic framework; scoping the range of options for PEs to work within, to which they can bring their own deep technical and product knowledge to deliver the outcomes that are valuable._
+<blockquote>
+...effective PMs communicate and define the strategic framework; scoping the range of options for PEs to work within, to which they can bring their own deep technical and product knowledge to deliver the outcomes that are valuable.
+</blockquote>
 
 In an organisation entrenched in large-scale ‘agile’, small teams must protect their goal of delivering autonomously from the surrounding process-oriented environment.
 
@@ -91,6 +100,7 @@ I took some great inspiration and assurance in the value of what I can bring to 
 
 As Engineers we must communicate and protect our principles and standards as it’s our responsibility to educate stakeholders of their importance for product quality and team health.
 
-## If we establish trust w*e don’t need permission to do the right things* as Dave Farley of Continuous Delivery reminds us.
+<blockquote> If we establish trust we don’t need permission to do the right things* as Dave Farley of Continuous Delivery reminds us.
+</blockquote>
 
 The **Product Engineering** lens of Software engineers, I believe represents the future of what product companies will need from engineers to remain competitive and leverage the expertise and user-focus of engineers; the thing which motivates us: Solving problems, building things that matter and making _advocates_ of users!
