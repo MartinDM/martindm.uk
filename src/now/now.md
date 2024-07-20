@@ -2,13 +2,13 @@
 layout: layouts/base.njk
 title: Now
 templateClass: tmpl-page
-subtitle: Updated June 2024
+subtitle: Updated July 2024
 eleventyNavigation:
   key: Now
   order: 2
 ---
 
-Day-to-day: Senior Front-end Engineer at Vodafone 🙋‍♂️
+Day-to-day: Senior Front-end Engineer at Vodafone
 
 ### Podcast picks recently
 
@@ -36,13 +36,17 @@ Loved these classics which I frequently return to:
 
 ### Thinking about
 
+- Really challenging my belief that just because I love what I do at work, I still need to allow space around it to experience life outside of that
+
 - Being deliberate with how I spend time. Having systematically cutting out much 'low value' time sinks and unplugging from social media, there is much time available. I need to be deliberate with using it to foster meaningful relationships and towards fulfilling things like developing my art skills and reflection on my goals and values
 
 - Writing more about my experience at work, creativity and reflections on myself
 
-- Really challenging my belief that just because I love what I do, I don't need to allow space around it to experience life
-
 - Giving myself credit and valuing my unique skills; not comparing myself harshly with others who have different skills and sensibilities
+
+- Challenging myself to draw more, even if it's rubbish, and share it on my drawing instagram [martino_draws](https://instagram.com/martino_draws)
+
+- Back into Bouldering after a few months off doing other activie pursuits. Feels strong to be back on the wall!
 
 Thanks for taking an interest!
 
