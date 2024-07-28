@@ -18,7 +18,7 @@ I got to thinking about this after The Prime Time’s video on this topic: Senio
 
 It does a disservice to the realities of being a Senior and the growth we legitimately work toward throughout our career, and that ‘being competent’ (whatever this means) was never the reality, or the destination we should expect. Being ‘Senior’ will not inherently bestow complete mastery.
 
-Thge fact is, a software engineering career is characterised by an endless pursuit of incrementally becoming less-wrong; the journey is not supposed to culminate in knowing everything intuitively or even feeling like we have accounted for everything and have reached certainty. To think it is, or wil be, is more the mark of the _expert beginner_ who might believe this to be destination; and will shortly become disapointed, and so discouraged.
+The fact is, a software engineering career is characterised by an endless pursuit of incrementally becoming less-wrong; the journey is not supposed to culminate in knowing everything intuitively or even feeling like we have accounted for everything and have reached certainty. To think it is, or wil be, is more the mark of the _expert beginner_ who might believe this to be destination; and will shortly become disapointed, and so discouraged.
 
 We must then, to even allow ourselves to make an impact and fulfill our responsibility to other developers, identify with and _embody our competence_.
 

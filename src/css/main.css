@@ -1,5 +1,5 @@
 :root {
-  --content: #455062;
+  --content: #2e3542;
   --red: #c5004a;
   --darkred: #7f0036;
   --cyan: #b2efeb;
@@ -55,7 +55,7 @@ p:last-child {
 }
 p,
 .tmpl-post li {
-  line-height: 1.45;
+  line-height: 1.7;
 }
 a[href] {
   color: var(--blue);
@@ -330,8 +330,7 @@ blockquote {
 
 .content,
 .content p {
-  font-size: 16px;
-  font-size: 0.9rem;
+  font-size: 14px;
 }
 .content img {
   width: 550px;
@@ -428,12 +427,11 @@ blockquote {
   padding: 0 0 1em 0;
 }
 .page-title {
-  font-size: 30px;
-  font-size: 2rem;
-  padding-left: 8px;
-  border-left: 5px solid var(--cyan);
+  font-size: 32px;
+  padding-left: 12px;
   line-height: 1.1;
-  margin-bottom: 0;
+  border-left: 6px solid var(--cyan);
+  margin-bottom: 14px;
 }
 .page-title--subtitle {
   margin-bottom: 0.5em;
