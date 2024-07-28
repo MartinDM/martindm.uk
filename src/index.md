@@ -21,6 +21,22 @@ It was a fun little project to do some high-contrast, bold styling in the UI too
 
 Built with Next14 (TypeScript, Server Components), Prisma ORM, MongoDB, Zod validations, and Tailwind for styling.
 
+## JS / Typescript Calculator
+
+🚀 [View online on StackBlitz →](https://stackblitz.com/edit/martin-js-calculator?file=src%2Fmain.ts)
+
+💻[Repo](https://github.com/MartinDM/Vanilla-JS-Calculator)
+
+As a break from the familiarity and hand-holding of a framework, I get reaquainted with JS fundamentals, creating my own pattern and storing state without a convention.
+
+This was a fun revision exercise; back to JS fundamentals of DOM and data manipulation, storing state, and thinking methodically about each step in _using_ a calculator and the unexpected operations we might do!
+
+It was quite eye opening how important, without a framework, it is to _name_ things well and maintain separation of behaviour even for my future self to understand it easily.
+
+It was also a chance to do some retro styling! A fun, short project.
+
+[![JS Calculator](/img/js-calculator-app.jpeg)](https://stackblitz.com/edit/martin-js-calculator?file=src%2Fmain.ts)
+
 ## iTunes Music Artwork searcher
 
 🚀 [View online →](https://mdm-itunes-search.surge.sh/)
@@ -41,7 +57,7 @@ Built with React and Vite with Chakra UI components.
 
 💻 [Repo →](https://github.com/MartinDM/asset-list)
 
-[![Album posters](/img/asset-tracker.png)](https://martin-asset-list.surge.sh/)
+[![Asset tracker](/img/asset-tracker.png)](https://martin-asset-list.surge.sh/)
 
 This was a fun coding exercise to add hardware items to a list with some business rules I set myself, such as implementing unique IDs per asset, and an undo function.
 
