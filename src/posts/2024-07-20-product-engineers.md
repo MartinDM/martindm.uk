@@ -16,17 +16,17 @@ Process-heavy methods of agile, implemented as scrum, are optimised for predicta
 
 Process-heavy frameworks and agile-as-scrum threatens to abstracts away the real driver of the business we’re in; that is discovering and _doing what is_ _valuable_ to customers and _not_ do… what is _not_ to that end.
 
-‘Scrum’ masquerading as agility, can easily distract developers and compel compliance with its _groupthink;_ its licence to fabricate a worldview \**of what *represents value. Success even.\*
+‘Scrum’ masquerading as agility, can easily distract developers and compel compliance with its _groupthink;_ its licence to fabricate a worldview of what \*represents value; as a controlable metric for success. Don't like the story the map tells? Make a new map!
 
 I observe Scrum not only used to give the facade of Agile, but used as a means to synthesise its own reality; more favourable and easier to quantify than actual value, which is then reported and sold to stakeholders via outputs: charters, definitions, up-front planning documents, risk assessment, long-range planning, collaborative boards and a packed calendar full of ceremonies with large invite lists. _Look; we’re Agile._
 
 This is cargo-cult agility and ignores the spirit of agile in valuable user outcomes.
 
-Process-heavy scrum at the team level within a larger organizational structure, diminishes the direct connection to market signals and users, leading to underutilisation of engineers.
+Process-heavy scrum at the team level within a larger organizational structure, diminishes the direct connection to market signals and users, leading to under-utilisation of engineers.
 
 I feel because such direct connection is a more conveniently nebulous but critical measure of _what the_ market - our users - respond to as valuable.
 
-This leverages a troubling cognitive dissonance on developers who are intrinsically motivated to create meaningful work for users, rather than backlogs, predictability, and processes which attempting to reduce an inherently emergent, creative process of discovery to a waterfall structure.
+This leverages a troubling cognitive dissonance on developers who are intrinsically motivated to create meaningful work for users, rather than backlogs, predictability, and processes which attempts to reduce an emergent, creative process of discovery-by-doing to a waterfall structure. Yet engineers know we are learning what makes sense but can only know by starting.
 
 We need only consider the practice of estimating and refining technical features _when we know least_, as we don’t start learning until we start building.
 

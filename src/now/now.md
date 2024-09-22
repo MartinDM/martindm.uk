@@ -8,7 +8,7 @@ eleventyNavigation:
   order: 2
 ---
 
-Day-to-day: Senior Front-end Engineer at Vodafone
+Day-to-day: Senior Software Engineer at Vodafone
 
 ### Podcast picks recently
 
