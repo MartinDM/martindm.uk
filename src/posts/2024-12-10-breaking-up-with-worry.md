@@ -37,13 +37,13 @@ Because we have the tools as conditioned professionals - indeed humans - to resp
 
 We already beat the boss levels; now we’re iterating, guided by habit, skills and experience.
 
-Worry may have served its purpose as the spectre; the imagined enforcer looming over us earlier in our career as we explored the lay of the land for threats and what kind of person we even are.
+Worry may have served its purpose; the spectre, the imagined enforcer looming over us earlier in our career as we explored the lay of the land for threats and what kind of person we even are and how we respond. We were somehow _apprentices_ in the school of learning ourselves.
 
-But for me, I must acknowledge this habitual worrying, the self-doubt is a hinderance.
+But for me, I must acknowledge this has become a habitual worry, and the self-doubt it creates is a hinderance.
 
-Something going wrong is annoying, but it’s not enough to unseat me from myself; to undermine my resolve or ability to respond and course-correct as I always have, and we all must do if we are to pursue anything that enriches our life.
+Something going wrong is annoying, but I must remember it’s not enough to unseat me from myself. My skills, experience, humulity, are what I operate from, and so retain an ability to _respond_ and course-correct as I always have, and we all _must_ do if we are to pursue anything that enriches our life.
 
-Worry now feels less a prerequisite for anything going well; it does not need to be the *cause* of our trajectory over the decades, and has become a tax we put on ourselves if we had the audacity to pursue anything meaningful to us.
+Worry now feels less a prerequisite for anything going well; it does not need to be the *cause* of our trajectory over the decades, and has become a levy we put on ourselves if we had the audacity to pursue anything meaningful to us!
 
 So, that said, I guess I’m trying to realise my own agency and ability to respond, instead of this all-consuming feeling that one *ought* to worry about things, or cement its failure.
 

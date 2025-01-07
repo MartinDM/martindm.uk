@@ -13,7 +13,8 @@ I'm reflecting more on understanding _what are the things I need_. These are not
 
 I decided to book a couple of days off as a way to check in with myself and shore up against stressors I may encounter so I can continue to meet them with bravery and a grounding in myself; my confidece and agency.
 
-For now though, and due to being dilligent and self-aware, things are bright and enjoyable.
+For now though, and due to being dilligent and self-aware, I planned the day to be bright and enjoyable.
+
 I took a day to wander and think; to plan some activities and work on my goals.
 
 <!-- /summary -->
