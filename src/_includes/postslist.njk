@@ -1,3 +1,9 @@
+<h2 class="intro">
+  I want to make life better for my colleagues, users and improving things at
+  work by having well-formed ideas with which I can inspire others. Here, I’ll
+  share my thoughts on tech, leadership, and some personal stuff too.
+</h2>
+
 <ol class="post-list">
   {% for post in postslist | reverse %}
   <li
@@ -12,12 +18,14 @@
     </h2>
     <time
       class="post-list__date post-date"
-      datetime="{{ post.date | htmlDateString }}">
-      {{ post.date | readableDate }}</time>
+      datetime="{{ post.date | htmlDateString }}"
+    >
+      {{ post.date | readableDate }}</time
+    >
     {% if post.data.previewImg %}
     <div class="preview-img">
-     <a href="{{ post.url | url }}">
-      <img src="{{ post.data.previewImg}}" alt="{{ post.data.title }}" />
+      <a href="{{ post.url | url }}">
+        <img src="{{ post.data.previewImg }}" alt="{{ post.data.title }}" />
       </a>
     </div>
     {% endif %}
@@ -26,7 +34,8 @@
       class="post-list__read-more"
       href="{{ post.url | url }}"
       aria-label="Read more on {{ post.data.title }}"
-      >Read more →</a>
+      >Read more →</a
+    >
   </li>
   {% endfor %}
 </ol>
