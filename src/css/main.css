@@ -58,6 +58,11 @@ p,
 .tmpl-post li {
   line-height: 1.7;
 }
+
+.tmpl-post p {
+  font-size: 20px;
+}
+
 a[href] {
   color: var(--blue);
 }
@@ -257,11 +262,7 @@ blockquote + cite {
 }
 .nav-item a:hover {
   text-decoration: none;
-  background-image: linear-gradient(
-    to bottom,
-    var(--content) 95%,
-    transparent 0%
-  );
+  background-image: linear-gradient(to bottom, var(--cyan) 95%, transparent 0%);
   background-position: 0 95%;
   background-repeat: repeat-x;
   background-size: 10px 3px;
@@ -343,10 +344,6 @@ blockquote + cite {
   }
 }
 
-.content,
-.content p {
-  font-size: 14px;
-}
 .content img {
   width: 550px;
   max-width: 100%;
@@ -366,7 +363,7 @@ blockquote + cite {
   text-decoration: none;
   background-image: linear-gradient(
     to bottom,
-    var(--content) 95%,
+    var(--blueGrey) 80%,
     transparent 0%
   );
   background-position: 0 95%;
@@ -398,30 +395,11 @@ blockquote + cite {
   text-decoration: underline;
 }
 .post-list__excerpt {
-  font-size: 20px;
-  font-size: 1.1rem;
-  margin: 0 0 1em 0;
+  font-size: 17px;
+  margin: 6px 0;
+  color: var(--content);
 }
-.post-list__read-more {
-  padding-bottom: 3px;
-  text-decoration: none;
-  text-decoration: none;
-  background-image: linear-gradient(to bottom, var(--cyan) 95%, transparent 0%);
-  background-position: 0 95%;
-  background-repeat: repeat-x;
-  background-size: 10px 3px;
-}
-.post-list__read-more:hover {
-  text-decoration: none;
-  background-image: linear-gradient(
-    to bottom,
-    var(--content) 95%,
-    transparent 0%
-  );
-  background-position: 0 95%;
-  background-repeat: repeat-x;
-  background-size: 10px 3px;
-}
+
 @media (min-width: 1200px) {
   .post-list {
     padding-right: 20%;
@@ -461,17 +439,15 @@ blockquote + cite {
   font-size: 24px;
   font-size: 1.3rem;
 }
-.tmpl-archive .post-list__excerpt {
-  font-size: 16px;
-  font-size: 0.9rem;
-  margin: 0;
-}
 
 .tmpl-archive .intro {
   font-size: 20px;
   font-weight: normal;
   line-height: 1.6;
   padding: 8px 0;
+}
+.tmpl-archive .intro p {
+  margin: 5px 0;
 }
 
 .tmpl-page {

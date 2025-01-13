@@ -29,8 +29,8 @@ Anything less places an unfair cognitive burden and uncertainty in the culture, 
 
 <blockquote>
 Clear is Kind. Unclear is unkind
-<cite>- Brene Brown</cite>
 </blockquote>
+<cite>- Brene Brown</cite>
 
 This [article](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-is-unkind/) captures the idea:
 
