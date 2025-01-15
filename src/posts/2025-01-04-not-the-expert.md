@@ -31,9 +31,9 @@ Amid this, I'm still harboring a disquiet about being regarded as an _Expert_, e
 
 Given that skills in Software Engineering have a limited shelf life and are often highly contextual, it feels naïve to ever fully regard oneself as expert in that sense.
 
-However, on reflection, a more realistic, humane and helpful way to find peace in my role, is to cast myself as simply someone who’s (had the fortune!) of making more mistakes and experienced many environments and learned from them than many!
+However, on reflection, a more realistic, humane and helpful way to find peace in my role, is to cast myself as simply someone who’s (had the fortune!) of screwing up in more new and interesting ways and learned from them than many!
 
-> So there it is: I’m an Expert because of myriad past mistakes made.
+> So there it is: I’m an Expert because of myriad past screw-ups!
 
 Software delivery is as much about interactions, communication and coaching others as it is about code. The machines are coming for that part.
 
