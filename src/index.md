@@ -27,13 +27,9 @@ Built with Next14 (TypeScript, Server Components), Prisma ORM, MongoDB, Zod vali
 
 💻[Repo](https://github.com/MartinDM/Vanilla-JS-Calculator)
 
-As a break from the familiarity and hand-holding of a framework, I get reaquainted with JS fundamentals, creating my own pattern and storing state without a convention.
+This project was a refreshing return to JavaScript fundamentals. I built my own patterns for managing state and manipulating the DOM, which encouraged me to think methodically about each step—especially when handling the quirks of calculator operations!
 
-This was a fun revision exercise; back to JS fundamentals of DOM and data manipulation, storing state, and thinking methodically about each step in _using_ a calculator and the unexpected operations we might do!
-
-It was quite eye opening how important, without a framework, it is to _name_ things well and maintain separation of behaviour even for my future self to understand it easily.
-
-It was also a chance to do some retro styling! A fun, short project.
+It was eye-opening to see just how crucial clear naming and a clean separation of behaviors are, even for my future self to make sense of the code. Plus, it was a great excuse to experiment with some retro styling. A fun and insightful little project!
 
 [![JS Calculator](/img/js-calculator-app.jpeg)](https://stackblitz.com/edit/martin-js-calculator?file=src%2Fmain.ts)
 
