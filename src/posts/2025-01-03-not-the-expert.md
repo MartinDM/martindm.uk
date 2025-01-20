@@ -9,9 +9,9 @@ category: work
 
 ### No, wait; I'm not the expert
 
-Transitioning into a new role as a de-facto _Expert,_ I’ve been reflecting on the balance between self-doubt and confidence, learning to redefine 'expertise' not as what I always thought meant 'infallibility' but as something more within my grasp...an ability to recognize patterns, draw from diverse experiences, and empower others in leading on creating an environment where _they_ can be their best.
+Transitioning into a new role, I’ve been reflecting on the balance between self-doubt and confidence, learning to redefine 'expertise' not as what I always thought meant 'infallibility' but as something more within my grasp...an ability to recognise patterns, draw from diverse experiences, and empower others in leading on creating an environment where _they_ can be their best. For me, I'd like this to be increasingly not at all about me
 
-I'd never embark on this role regarding myself an expert in this specific codebase or even _sector_; rather I'm laying my chips in my value in fostering team trust, and coaching in good communication patterns, engineering principles, and bringing a renewed perspective to a team breaking free from legacy ways of working.
+I'd never embark on this role regarding myself an expert in this specific codebase or even _sector_; rather I'm laying my chips in my value in fostering team trust, and coaching in good communication patterns, engineering principles, and bringing a renewed perspective to a team to define their ways of working.
 
 I will always work to carve out the space and mindset shift, in the most difficult circumstance, for developers to do their best work.
 
@@ -23,7 +23,7 @@ By being mindful and forgiving of myself, I hope to feel more capable and confid
 
 There’s a profound sense of freedom we give ourselves in humbly yet confidently learning to trust ourseleves. For myself, this shows up as recognizing my own equality to others, worthy of the space and platform to contribute as others and no less capable.
 
-This is the mindset I am working on; I feel it's imperitive if I'm to realise the contribution I want to make, able to have impact for others without undermining myself with doubt. I receive repeated reassurance of my contributions and ability, but I'm working on convincing myself!
+This is the mindset I am working on; I feel it's imperitive if I'm to realise the contribution I want to make, asble to have impact for others without undermining myself with doubt. I receive repeated reassurance of my contributions and ability, but I'm working on convincing myself!
 
 ### Navigating Expertise and Imposter Syndrome
 
@@ -47,7 +47,7 @@ That is, not so much expertise in delivering medical software in one context, or
 
 But rather skills in pattern recognition and trials from previous situations and teams.
 
-After being part of a variety of product teams, I've encountered recurring dynamics, dysfunctions, process bottlenecks, each with unique team cultures.
+After being part of a variety of product teams, I've encountered recurring dynamics, process bottlenecks, each with unique team cultures.
 
 But I've also been exposed to what visionary, inspiring tech leadership _looks like_ and can aspire to model it myself. That is, setting a clear vision for devs, modelling strong engineering behaviors, 'going-first', and repeatedly promoting a culture of safety to experiment, screw up, and change!
 
@@ -59,7 +59,7 @@ Across all software teams, one constant remains: they are composed of _people_, 
 
 Perhaps a crucial aspect of our roles as Leads is to give others permission to trust their _own_ judgments and the courage and safety to _find out_. I can help build a high-performing teams by promoting respect, and space for learning, feedback, and honesty with each other.
 
-However, while this is the goal and what I expect of myself as soeone who _cares_ about my work, I’m learning to put up boundaries around this...
+However, while this is the goal and what I expect of myself as someone who _cares_ about my work, I’m learning to put up boundaries around this...
 
 Doing so for others; to signal safety to a team, doesn’t mean subjugating my own growth or safety.
 
@@ -69,14 +69,14 @@ But there is a middle ground; suggesting alternative approaches, more contributi
 
 ### The Opportunity of Joining a New Team
 
-On joining a new team, I feel granted a special invincibility cloak - and I'm liable to need this more than most!
+On joining a new team, I feel granted a special invincibility cloak for a time - and I'm liable to need this more than most!
 
 It's that rarified window where colleagues are socially-bound to be patient, tolerant of my naïve, probing questions, and the risk of challenging current processes is reduced—sometimes even expected.
 
-That's just as well! I know as well as anyone that I’m not the fastest or cleverest developer. But I can ask the right questions, challenge in ways that gain traction, and spot repeating patterns that slow teams down or disempower them in delivering great outcomes for users.
+That's just as well! I know as well as anyone that I’m not the fastest or cleverest developer. But I can ask the right questions, challenge in constructive ways that (I hope) prompt reflection, and spot repeating patterns that slow teams down them in delivering great outcomes for users.
 
-For me, as the new 'Expert SE' on the block, I can still find identity and credibility in demonstrating, a mindset of ownership and true product-thinking among developers...
+For me, as the new Snior ina team, I can still find identity and credibility in demonstrating, a mindset of ownership and true product-thinking among developers...
 
-Not a mindset of command-and-control, but coaching colleaguues toward becoming true Product Engineers where we can experiment, try new things, and improve the our ways fo working and developer-happiness.
+Coaching colleagues toward becoming true Product-minded Engineers where we can experiment, try new things, and improve the our ways of working and developer-happiness.
 
-It'll be a 2025 of growth for my new team, but for me personally in approaching the bigger challenges others may not approach or recognise.
+It'll be a 2025 of growth for my new team, but for me personally in identifying and approaching the bigger challenges for our teams and users.
