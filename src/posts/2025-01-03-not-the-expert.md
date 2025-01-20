@@ -75,7 +75,7 @@ It's that rarified window where colleagues are socially-bound to be patient, tol
 
 That's just as well! I know as well as anyone that I’m not the fastest or cleverest developer. But I can ask the right questions, challenge in constructive ways that (I hope) prompt reflection, and spot repeating patterns that slow teams down them in delivering great outcomes for users.
 
-For me, as the new Snior ina team, I can still find identity and credibility in demonstrating, a mindset of ownership and true product-thinking among developers...
+For me, as the new Senior in a team, I can still find identity and credibility in demonstrating a mindset of ownership and true product-thinking among developers...
 
 Coaching colleagues toward becoming true Product-minded Engineers where we can experiment, try new things, and improve the our ways of working and developer-happiness.
 
