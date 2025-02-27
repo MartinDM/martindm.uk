@@ -2,9 +2,10 @@
 layout: layouts/base.njk
 title: Apps
 templateClass: tmpl-page
+permalink: "/apps"
 eleventyNavigation:
   key: Apps
-  order: 0
+  order: 1
 ---
 
 ## Url:jam - URL Shortener

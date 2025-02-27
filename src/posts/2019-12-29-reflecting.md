@@ -23,24 +23,30 @@ I have shared below my own journal 'template' for conducting a personal Annual R
 <hr />
 
 **Review goals/intentions set for 2019**
+
 - Did I achieve or make progress on them? Are they even still important? If not, don't get hung up, tweak them, and take my momentum into some new goals.
 
 **Recall highs; lows...**
+
 - How did I move through the lows?
 - What behaviours or mindsets preceded these states?
-- What worked or didn't work?  - Could indicate what to do more or less of
+- What worked or didn't work? - Could indicate what to do more or less of
 
 **Biggest stressors**
+
 - Could recurrence be avoided? What did I learn from them/identify any emotional traps that preceded them?
 
 **Behaviours to cultivate**
+
 - What values to bring to interactions, relationships. Use to informing choices of the right focus, media diet
 - Any behaviours toward introducing something new?
 
 **Gratitude for...**
+
 - Gratitude may be extracted from even the most trying of things; thinking about what - you're grateful for helps to keep perspective through turmoil we'll encounter, and also to truly revel in our more mundane experience.
 
 **Positive initiatives and learnings to take into 2020**
+
 - Emotional pitfalls/patterns to observe
 - Refining/levelling-up any new habits
 - Clarity on what matters makes it easier to know what to focus on, and what to decline
@@ -54,10 +60,10 @@ It's by engaging with unexpected challenges, lack of certainty, the complexity o
 
 Armed with our moral code and stoic virtues, we can dare to ignore the self-talk and beliefs we had about ourselves; confidently engaging with challenges as our teacher - making right actions, yet never straying into delusions of knowing anything much at all.
 
-I'd even suggest there may not even *be* another way to overcome challenges that find us than; to quote Marcus Aurelius:
+I'd even suggest there may not even _be_ another way to overcome challenges that find us than; to quote Marcus Aurelius:
 
-> The impediment to action advances action. What stands in the way becomes the way.   
-> *- Marcus Aurelius, Meditations*
+> The impediment to action advances action. What stands in the way becomes the way.  
+> _- Marcus Aurelius, Meditations_
 
 Our learned beliefs can keep us tethered to past versions of ourselves, yet can be overcome if only we allow ourselves to merely be braver distinct from waiting for certainty to make us less anxious.
 
@@ -66,7 +72,7 @@ Our learned beliefs can keep us tethered to past versions of ourselves, yet can 
 It can be difficult to start journaling; questions about time of day, frequency, what to even write, can thwart our motivation. But I’d advocate for blind ‘doing’ in this case - just start, and take the lead from what you find valuable and the insight you'll start to gain about your very nature.
 
 > Waste no time arguing what a good man should be. Be one  
-> *- Marcus Aurelius, Meditations*
+> _- Marcus Aurelius, Meditations_
 
 In doing a personal Annual Review, it can be difficult, even daunting to know what to write about for the whole year! I certainly found this and enjoy reading what others might include; I mean, can we really remember what we got up to at the start of the year, especially if not armed with a years' reflections to draw upon!
 
