@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  Developers as Product Engineers: step up to the potential
+  Developers as Product Engineers; less ceremony, more shipping
 tags: software delivery, product, empowerment, product engineering
 category: work,product
 ---
@@ -12,15 +12,15 @@ As Senior engineers working on often high impact, important services in a large 
 
 <!-- /summary -->
 
-Process-heavy methods of agile, implemented as scrum, are optimised for predictability and visibility. It traps engineers in the performative culture it promotes, and can frustrate us reaching flow state; working to build the right things using an understanding _*of the product*_ combined with user feedback and data, and then as professionals, connect autonomously across the business; self-organising in a _*lean*_ tight working-group on the next-right-things to build.
+Process-heavy methods of agile, implemented as scrum, are optimised for predictability and visibility. It traps engineers in the performative culture it promotes, frustrates teams reaching flow - working to build the right things using an understanding _*of the product*_, user feedback and data, and then as professionals, exercising autonomy to spec and build the right thing.
 
-Process-heavy frameworks and agile-as-scrum threatens to abstracts away the real driver of the business we’re in; that is discovering and _*doing what is*_ _*valuable*_ to customers and _*not*_ do… what is _*not*_ to that end.
+Agile frameworks seem antithetical to the egalitarian spirit of the original concept. They instead impose significant controls, artificial deadlines (leading to burnout and poor quality) and distraction from the discovering and delivering on the real drivers of value. _*Doing what is valuable*_ and _*not*_ do what is... _*not*_.
 
-‘Scrum’ masquerading as agility, can easily distract developers and compel compliance with its _*groupthink;*_ its licence to fabricate a worldview of what \*represents value; as a controlable metric for success. Don't like the story the map tells? Make a new map!
+‘Scrum’ masquerades as agility; it distracts engineers and normalises obedience; all-too-easily handing-over not just their life-hours, but energetic brain cycles and attention, we can otherwise spend on building.
 
-I observe Scrum not only used to give the facade of Agile, but used as a means to synthesise its own reality; more favourable and easier to quantify than actual value, which is then reported and sold to stakeholders via outputs: charters, definitions, up-front planning documents, risk assessment, long-range planning, collaborative boards and a packed calendar full of ceremonies with large invite lists. _*Look; we’re Agile.*_
+It brings with it a well-documented _group-think_ that prioritises the appearance of success over real outcomes. Scrum enables a narrative-driven version of value, where success or failure is shaped by the way we frame it. This is more favourable and easier to quantify than actual value, which is then reported and sold to stakeholders via outputs: charters, definitions, up-front planning documents, risk assessment, long-range planning, collaborative boards and a packed calendar full of ceremonies.
 
-This is cargo-cult agility and ignores the spirit of agile in valuable user outcomes.
+Don’t like the story the map tells? Just redraw the map.
 
 Process-heavy scrum at the team level within a larger organizational structure, diminishes the direct connection to market signals and users, leading to under-utilisation of engineers.
 
@@ -28,29 +28,31 @@ I feel because such direct connection is a more conveniently nebulous but critic
 
 This leverages a troubling cognitive dissonance on developers who are intrinsically motivated to create meaningful work for users, rather than backlogs, predictability, and processes which attempts to reduce an emergent, creative process of discovery-by-doing to a waterfall structure. Yet engineers know we are learning what makes sense but can only know by starting.
 
-We need only consider the practice of estimating and refining technical features _*when we know least*_, as we don’t start learning until we start building.
-
-My observations aside, and amid the general emergence of this movement in the industry I feel there’s an answer; a reckoning. Leaner teams, comprising empowered, product and user-focused engineers.
+We need only consider the practice of estimating and refining technical features _*when we know least*_, as we don’t start learning until we start building. Yet now, a team finds themselves on the hook for promises they were coerced int,o on shaky understanding. Over time, we get burnout, attrition, less optionality in our code for future changes, and a poor user experience.
 
 # Product Engineers
 
-The future of software product development I discovered might be in a new-to-me concept I discovered on Jordan Cutlers’ Substack _*High Growth Engineer*_ - Becoming a [Product Engineer](https://read.highgrowthengineer.com/) and [Posthog.io](https://posthog.com/blog/what-is-a-product-engineer) have an awesome description of the role and why it matters to companies moving from _*project*_ to _*product*_ mindsets.
+My observations aside, and amid the general emergence of this movement in the industry I feel there’s an answer; a reckoning. Leaner teams, comprising empowered, product and user-focused engineers who care about discovering, building and _shipping_ valuable outcomes frequently. but our orgs need to enable it.
 
 Product Engineering is about full-life-cycle involvement in the iteration of a product, based on user feedback and data to _*know what problems to solve.*_
 
+Jordan Cutlers’ Substack _*High Growth Engineer*_ - Becoming a [Product Engineer](https://read.highgrowthengineer.com/) and [Posthog.io](https://posthog.com/blog/what-is-a-product-engineer) have an awesome description of the role and why it matters to companies moving from _*project*_ to _*product*_ mindsets.
+
 John and PostHog's commentary of Product Engineering gives a model which I feel represents a vision for the necessary organisational shift toward small, focused, empowered product engineers.
 
-Engineers here take initiative and are implicitly _*enabled*_ to have ownership of the end-to-end lifecycle; from identifying the user and business needs with highest ROI, to development and iteration through Continous Discovery.
+Engineers here take initiative and are implicitly _*enabled*_ and unlocked by the organisation and product strategy to have ownership of the end-to-end lifecycle; from identifying the user and business needs with highest ROI, to development and iteration through Continuous Discovery.
 
 <blockquote>
 What makes them unique is their focus on creating a product for users. They care about building a solution to problems that provides value to users. They must be empathetic to users, and this means caring about user feedback and usage data.
 </blockquote>
 
-Instead of perpetuating the traditional software lifecycle in a ‘project-oriented’ paradigm, we might as aspiring PEs, ask:
+Instead of perpetuating the traditional software lifecycle in a ‘project-oriented’ paradigm full of ceremony, we might as aspiring PEs, ask:
 
-1. _*“What is the user’s actual problem?”*_
+1. **“What is the user’s actual problem?”**
 
-2. _*“What is the best solution for the user?”*_
+2. **“What is the best solution for the user?”**
+
+3. **How soon can we get something that looks like this built and shipped to find out?**
 
 As such, Product Engineers are heavily invested in market and user feedback. They are ‘_*customer obsessed’*_ and are opinionated about the roadmap for the product, building a deep understanding of the problem space, and then self-organise to build and iterate solutions.
 
@@ -60,11 +62,9 @@ As such, Product Engineers are heavily invested in market and user feedback. The
 Kushal Byatnal - Extend
 </cite>
 
-The primary goal of the Product Engineer then - is in a more _*direct*_ way _*than typically*_ mandated in feature teams - about _*building a great user experience*_ and code we write as mere means.
+The primary goal of the Product Engineer then - is in a more _*direct*_ way _*than typically*_ mandated in feature teams - about **building a great user experience** and code we write as mere means.
 
-With increasing efficiency in software development possible, market competition and lean startups without legacy structures, the role of the Product Engineer seems a natural step in the evolution of the role of Software Engineers; a way in which Engineers can have more impact; enhancing their technical _*and*_ product knowledge, with market feedback and enablement at the strategic level.
-
-Product Engineers can provide valuable, informed recommendations about technical trade-offs to stakeholders on the product roadmap and be empowered to prioritise what is valuable.
+With the increasing efficiency in software development possible, market competition and lean startups without legacy structures, the role of the Product Engineer seems a natural step in the evolution of the role of Software Engineers; a way in which Engineers can have more impact; leveraging their technical _*and*_ product knowledge, with market feedback and crucially, enablement at the strategic level of our organisations.
 
 This is exciting to me, as many like me as Senior Engineers will have developed the commercial skills necessary to be successful in what could be a new frontier of software delivery; an alternative to the parallel tracks of Tech or Management the industry has standardised.
 
@@ -72,9 +72,9 @@ This is exciting to me, as many like me as Senior Engineers will have developed 
 
 While start-ups and product-led companies are adopting this approach, we may soon witness a fast-following among established product companies wishing to build a strong Product culture.
 
-The question is whether larger orgs can be honest with themselves; not paying lip service to true engineer-empowerment and product-market fit excellence, but structuring in such a way as to separate these teams from the legacy funding model and make it possible; to _*unlock*_ small [\*Product Engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams), empowered\* to progressively own more of the product at first.
+The question is whether larger orgs can be honest with themselves; not paying lip service to true engineer-empowerment and strong product-market fit, but structuring in such a way as to separate these teams from the legacy funding model and make it possible; to _*unlock*_ small [\*Product Engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams), empowered\* to progressively own more of the product and ship frequently.
 
-To facilitate PEs, the goal is to minimise the centralised processes that stifle scrum feature-teams in larger orgs and empower teams with a _*maker’s schedule*_ – to make decisions, prototype and build what matters.
+To facilitate PEs, the goal is to minimise the centralised processes that stifle Scrum feature-teams in larger orgs and empower teams to make decisions, prototype, test frequently and build **what matters**.
 
 I feel companies adopting and hiring accordingly for this mindset would see a significant strategic advantage in product quality, market-fit and engineering engagement.
 
@@ -84,7 +84,7 @@ Let’s be real though. Many of us are maintainers; working with functioning pro
 
 But there’s much we can take and aspire to even as individual contributors. We can stand out as acting _*Product Engineers*_ in our feature teams as far as we’re able.
 
-We are _*product*_ experts, with the technical background. We are then, uniquely positioned - obliged even - to communcicate technical trade-offs, advocate for users and _*doing the right things*_ in light of user feedback and data.
+We are _*product*_ experts, with the technical background. We are then, uniquely positioned - obliged even - to communicate technical trade-offs, advocate for users and _*doing the right things*_ in light of user feedback and data.
 
 But surely they need direction; to keep the product roadmap coherent.
 
@@ -101,7 +101,7 @@ I took some great inspiration and assurance in the value of what I can bring to 
 As Engineers we must communicate and protect our principles and standards as it’s our responsibility to educate stakeholders of their importance for product quality and team health.
 
 <blockquote>
-If we establish trust we don’t need permission to do the right things* as Dave Farley of Continuous Delivery reminds us.
+If we establish trust we don’t need _permission_ to do the right things*
 </blockquote>
 
-The **Product Engineering** lens of Software engineers, I believe represents the future of what product companies will need from engineers to remain competitive and leverage the expertise and user-focus of engineers; the thing which motivates us: Solving problems, building things that matter and making users into _*advocates*_.
+The **Product Engineering** lens of Software engineering, I believe represents the future of what Product companies will need to enable, in order to remain competitive; leveraging the user-focus and ability to ship quickly; the thing which motivates us: Solving problems, building things that matter and are a joy to use, making users into _*advocates*_.
