@@ -43,7 +43,7 @@
         <main {% if templateClass %} class="{{ templateClass }}"{% endif %}> 
           
           {% if layout === 'post' %}
-              <p class="content-nav"><a href="{{ '/posts' | url }}">← Back</a></p>
+              <p class="content-nav"><a href="{{ '/' | url }}">← Back</a></p>
           {% endif %} 
 
           {% if title !== 'Home' %}
