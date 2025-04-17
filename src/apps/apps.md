@@ -16,7 +16,7 @@ eleventyNavigation:
 
 [![URL Shortener](/img/url-jam-app.png)](https://url-jam.vercel.app)
 
-Building a URl Shotener is a great learning exercise in how to architect such an app and saw me working with the nuances of validating and correcting URL inputs, the `URL` API, `zod` library and Next14's new Server Components.
+Building a URL shortener is a great learning exercise in how to architect such an app and saw me working with the nuances of validating and correcting URL inputs, the `URL` API, `zod` library and Next14's Server Components.
 
 It was a fun little project to do some high-contrast, bold styling in the UI too just using Tailwind, following a design I did in Figma.
 
@@ -28,9 +28,9 @@ Built with Next14 (TypeScript, Server Components), Prisma ORM, MongoDB, Zod vali
 
 💻[Repo](https://github.com/MartinDM/Vanilla-JS-Calculator)
 
-This project was a refreshing return to JavaScript fundamentals. I built my own patterns for managing state and manipulating the DOM, which encouraged me to think methodically about each step—especially when handling the quirks of calculator operations!
+This project was a refreshing return to JavaScript fundamentals. I built my own patterns for managing state and manipulating the DOM, which encouraged me to think methodically about each step; especially when handling the edges of calculator operations!
 
-It was eye-opening to see just how crucial clear naming and a clean separation of behaviors are, even for my future self to make sense of the code. Plus, it was a great excuse to experiment with some retro styling. A fun and insightful little project!
+It was eye-opening to see just how crucial clear naming and a clean separation of behaviors are, even for my future self to make sense of the code. Plus, it was a great excuse to experiment with some retro styling. A fun and little project!
 
 [![JS Calculator](/img/js-calculator-app.jpeg)](https://stackblitz.com/edit/martin-js-calculator?file=src%2Fmain.ts)
 
@@ -44,9 +44,9 @@ It was eye-opening to see just how crucial clear naming and a clean separation o
 
 I was playing recently with the album and artist info available via the Apple iTunes database using their API, so thought it would be a fun idea to turn it into an app.
 
-I started with some Figma wireframes and a spec I'd set for myself such as the entity type and sizes I wanted to make available.
+I started with some Figma wireframes and a spec I'd set for myself such as the asset type and sizes I wanted to make available.
 
-Built with React and Vite with Chakra UI components.
+Built with React, Vite & Chakra UI components.
 
 ## Resource tracker
 
