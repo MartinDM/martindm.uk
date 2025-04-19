@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  Developers: Stepping into Competence Identity
+  🧑‍💻 Developers: Stepping into Competence Identity
 tags: work, personal, reflection, teams, professional development, Senior
 category: career
 ---

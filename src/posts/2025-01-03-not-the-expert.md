@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Expertise as mistakes, bravery and perspective
+title: 🪖 Expertise as mistakes, bravery and perspective
 tags: careers, job title
 category: work
 ---

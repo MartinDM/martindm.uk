@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Clear is Kind
-tags: Engineering, teams, communication
-category: work, communciation
+title: ⚡ Clear is Kind
 ---
 
 <!-- summary -->

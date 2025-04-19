@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photo study 1; Liminal space
+title: 🖼️ Photo study 1; Liminal space
 tags: photography, urban, study, walking, noticing, nottingham
 category: creativity, noticing, musings
 previewImg: /img/photography/study-laundrette/liminal-3.jpg
