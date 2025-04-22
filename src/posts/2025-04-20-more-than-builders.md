@@ -10,6 +10,8 @@ title: >
 
 Let’s say at this point, I don’t buy-into AI replacing developers; at least for the forseable, and in our current form; rather we’re at the start of what I feel is an imperative from both sides; companies and us as developers.
 
+<!-- /summary -->
+
 A need to shift in _where_ engineers’ most valuable competence lies; the skills we’ll need to be most impactful in orgs in a post-AI world, where code generation is _not_ uniquely our superpower as knowledge workers.
 
 The conversation around what the adoption of LLMs _means_ to software development seems to shift every week with each new tool; a proliferation of AI founders describing futures where their AI ‘oversees’ or otherwise benevolently ‘assists’ the work of developers.
