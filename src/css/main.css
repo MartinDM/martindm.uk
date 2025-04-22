@@ -1,6 +1,6 @@
 :root {
   --content: #2e3542;
-  --quote: #727b8d;
+  --quote: #383d46;
   --red: #c5004a;
   --darkred: #7f0036;
   --cyan: #b2efeb;
@@ -173,15 +173,14 @@ a[href].tag:visited {
   color: #fff;
 }
 blockquote {
-  padding: 12px;
+  padding: 16px;
   border-left: 5px solid var(--cyan);
   font-weight: 500;
   font-style: italic;
   font-size: 20px;
   color: var(--quote);
-  margin: 10px;
-  margin-left: 0;
-  margin-bottom: 0;
+  margin: 28px 10px;
+  letter-spacing: 1px;
 }
 blockquote + cite {
   color: black;
