@@ -6,7 +6,7 @@ title: >
 
 <!-- summary -->
 
-**As someone interested in the ripple effects of change, I wanted to explore my evolving thoughts on this urgent and intriguing issue facing us as developers in what feels like a _moment_ in software.**
+**As someone interested in the ripple effects of change, I wanted to explore my evolving thoughts on this existential issue facing us as developers in what feels like a _moment_ in software, and creative work in general.**
 
 Leadership in established organisations is increasingly following the trend of **imposing** AI into workflows...
 
