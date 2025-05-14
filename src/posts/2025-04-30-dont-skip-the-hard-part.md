@@ -1,76 +1,133 @@
 ---
 layout: post
 title: >
-  AI Adoption: The Cost of Skipping the Hard Part
+  AI Adoption; the cost of skipping the hard part
 ---
 
 <!-- summary -->
 
-**Competence in the Age of AI**
+**As someone interested in the ripple effects of change, I wanted to explore my evolving thoughts on this urgent and intriguing issue facing us as developers in what feels like a _moment_ in software.**
 
-Leadership in legacy organisations are increasingly impose AI to speed up delivery in the short term. Almost in a bid to forget what it means to 'go quickly' in the context of a large codebase.
+Leadership in established organisations is increasingly following the trend of **imposing** AI into workflows...
 
-While the sentiment is to be expected, as developers, we need ensure we do not loose sight of what makes us valuable; our hard-won skills. In good design and intentionality in how we scale our systems, and retain our human agency over them.
+While the impulse is understandable, as developers, we must ensure we don't lose sight of what truly **keeps us valuable**: our hard-earned skills in good design, thoughtful scaling of systems, and now, preserving our human agency over them.
 
 <!-- /summary -->
 
-Adoption of LLMs in software teams, especially at non-tech-native firms has been tentative; even suspect. Some [mandating](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink) and even stack-ranking its people on adoption into workflows, in a panicked attempt to keep up and leverage any ‘productivity’ gain possible _for the business._ As I wrote previously, a more meaningful, intentional value of AI exists beyond quicker output of the wrong thing. What is it to be _productive_ if teams are still _ineffective?_
+Adoption of LLMs in software teams, especially at non-tech-native firms, has been tentative so far; often even suspect. Typically, only pre-approved tools can be used, despite an ever-growing range of use-case-specific AI-assist products.
 
-Indeed, the one thing we know about the thing we _are_ building, is that _it is wrong._ Our goal as builders of useful software, is to find out _where_, and how we can make it _less wrong_ as soon and as often as possible. All the agile ceremonies, words and artefacts are mere performance, if they do not _assist_ us in that endeavour.
+Some orgs are [mandating](https://leaddev.com/culture/ai-coding-mandates-are-driving-developers-to-the-brink) and even [stack-ranking their people](https://newsletter.eng-leadership.com/p/enforcing-the-use-of-ai-in-engineering) on AI adoption, a practice we know will lead to [maladaptive behaviours](https://axify.io/blog/goodhart-law), undermining the original intentions.
 
-In agile, the only measure of progress, is _working software_.
+Meanwhile, there remains a contentious [gap in the perception of AI adoption success](https://www.axios.com/2025/03/18/enterprise-ai-tension-workers-execs) between Makers and Leadership. The latter pushes for specific applications of AI, heralding the success of a one-and-done rollout, while Engineers remain skeptical—perhaps each with their own idea of _what it is actually for._
 
-Meanwhile, as Product Engineers, many rightly view AI contribution to the codebase with skepticism.
+As I wrote previously, a more meaningful and intentional value of AI exists beyond quicker output. If we’re not also using it to deepen user insights, collaborate more efficiently, and ship _the right things,_ then optimising for productivity is only a mid-play.
 
-My experience has been that the _fitness_ of AI-generated code in the first place diminishes the less proximal the problem space is. That is to say, AI is not well suited to the long term maintainability.
+> What is this, if teams are still operating on the same information and feedback? The goal is still to write code _which generates value_ for users.
 
-Given that the [cost of software is roughly equivalent to the cost of change](https://www.youtube.com/watch?v=ZHpQs46xizQ) (Kent Beck), we must prioritise _optionality_ in our software design; something AI is presently and in my very experience _bad at._ Unless we _know_ from experience how to guard against it, we risk enabling AI to compromise our codebases and Products with spiralling costs of change, and a diminishing user experience we'll not appreciate until it's too late.
+After all, the one thing we know about the thing we **are** building is that **it is wrong.** Our goal as builders of useful software is to find out **where,** and how we can make it **less wrong** as soon and as often as possible.
 
-**Getting from 0-60**
+All the agile ceremonies, words, and artefacts are mere performance if they do not **assist** us in that endeavour.
 
-That said, AI can, and _does_ alleviate much toil in rote code generation; upgrading libraries, prototypes, releases, suggesting bug sources, maybe even writing tests.
+---
 
-It gets us from ‘_0-60’_ much quicker, allowing a technical Product team to quickly _pilot a hypothesis_ and get real, early feedback; data with which to decide the bets worth pursing.
+### **Getting from 0–60**
 
-Because that’s what we’re doing with Products: making a bet; a hypothesis and testing it often, and AI allows us to tighten that cycle. If we do not, competitors will. The baseline of being able to quickly learn and iterate has increased for all of us.
+That said, I’m a realist. AI can, and **does** alleviate much toil in rote code generation: upgrading libraries, prototypes, releases, suggesting bug sources, maybe even writing tests.
 
-Unsurprising then that AI is being increasingly mandated, albeit with bounds and tools of their choosing, but businesses are obligated to respond to enable this degree of rapid iteration. But this also means the _manner in which_ they chose adopt AI in support of an existing competitive advantage is existentially important to ensure we're optimising for the right outcomes that the business cares about.
+It gets us (and even non-technical people) from ‘**0–60’** much quicker, allowing savvy Product Managers to quickly **pilot a hypothesis** and, with the Product Engineers, get real feedback sooner—data with which to decide the **bets worth pursuing**. But it must end there.
 
-Requiring developers to adopt specific AI tools in the name of expediency, feels an out-of-touch and short-sighted move, and undermines the liberty of ones’ own professional judgement in adopting the tools that best help our workflow, sharing what we find with _each other_ toward our common goals.
+> That’s what we’re doing with Products: making a bet; a hypothesis and testing it often. AI allows us to tighten that cycle.
 
-I'd counsel leader navigating this new tech landscape to be mindful of the potential for exposing teams to second-order effects; not just in skill atrophy and our own existential risk, but the myriad ways in which AI introduces wrong solutions, arbitrary tech choices and coupling into the code, as recounted [in this article](https://martinfowler.com/articles/exploring-gen-ai/13-role-of-developer-skills.html) from Martin Fowlers’ blog; evaluating an LLM’s impact on dev skills.
+If we do not, competitors will. The baseline of being able to quickly learn and iterate has increased for all of us. AI just helps us get there sooner.
 
-**Devs against entropy**
+It’s unsurprising, then, that AI is being increasingly mandated—perhaps without proper analysis of what we actually expect it to do. Perhaps:
 
-As developers in this changing technical and political corporate landscape, we must guard against our own hard-learned skills becoming undermined. That is, knowing what changeable, decoupled software design looks like and stepping=up to increased _advocacy_ and education of the wider business, of its importance for continued success of our products, and why it's necessary to defend.
+**Decrease costs; less hiring, maybe even cutting headcount** on the assumption of elevating or maintaining value... Surely a net-win for businesses.
 
-A team losing its grasp on changeability is a team losing agency. On a long enough timeline, that’s how a product dies.
+However, this can create unintended cultural consequences where incentives become misaligned with product quality. Organisations may lose a valuable cultural advantage: the craft and consideration that go into a great product experience.
 
-**Its fun to be competent**
+---
 
-I don't think the gains we get as developers will be all that transformational when applied to maintaining an existing, mature codebase. We still need to learn the things, and solve problems ourselves. Now just with the overhead of untangling and second-guessing AI's code if we choose to use it. We don't get off that easy.
+### **Fitness of AI Assistance**
 
-While humans tendency seeks the easy route, there are no shortcuts to becoming _competent_ at software design. This will become even more, not less, crucial for working effectively _with_ AI as studious _Lead devs_ to the AI, dutifully reviewing its output.
+That said, Product Engineers may rightly view AI **contributions to the codebase** with skepticism...
 
-Until the organisation is fully weaned off humans all-together.
+> My experience using AI suggestions is that the **fitness** of the solutions diminishes the less proximal the problem space is.
 
-Therefore, as engineers we have responsibility _to ourselves_ to not become dependant. Else we are _choosing_ learned helplessness, not ‘_being efficient.’_
+That is to say, AI is often largely indifferent to technical and architectural considerations outside of the immediate scope—particularly those that affect long-term maintainability.
 
-Real productivity starts with intentionality; consider what we _want_ a solution to look like first before using the assistant to create it.
+At best, the quality of its solutions is limited by the quality of our _intentionality_—our thinking—when prompting.
 
-**The call of autocomplete**
+Therefore, the solutions it presents can be an easy trap for those not previously exposed to the challenges of code maintainability and complexity management. It may suggest suppressing errors, adding unnecessary libraries, or creating premature abstractions—all symptoms of weak prompts or inexperience.
 
-Are we _in this moment_ making a conscious decision to forego learning? Will we or our colleagues need to pay that up or make sense of this? If so, are we happy with that cost?
+What I’m saying is: you gotta know what you’re doing—often from bitter experience—to know when it’s helping and when it’s luring you and your product down a shady path of expediency.
 
-It’s been personally rattling to notice this creeping in; reflexively _expecting_ a solution to (often incorrectly) come out, and having to be very diligent to notice this temptation.
+AI code generation, as should be obvious to technical leaders, exposes teams and Products to second-order effects: skill atrophy, reduced autonomy, and the many ways AI can introduce wrong solutions, arbitrary tech choices, and unnecessary coupling into the codebase.
 
-We may need to hold nerve for just a moment, against the background noise of urgency.
+See [this article](https://martinfowler.com/articles/exploring-gen-ai/13-role-of-developer-skills.html) from Martin Fowler’s blog on evaluating LLM impact on developer skills and the risks of AI-generated code.
 
-We must remember in that choice point, organisations’ goals are impersonal: to maximise productivity and efficiency by any means necessary.
-This is fine; it’s in their DNA and is their responsibility.
+In fact, in the short term, AI may actually _add latency_ to delivery as we learn how to use it effectively—and that’s before we consider how maintainable any of it will be.
 
-But we as creators have a choice. Responsibility to ourselves to remain effective long-term, and so be dilligent in maintaining our technical fitness and critical thinking.
+Personally, I anticipate a coming wave of poor-quality software and frustrating user experiences becoming the norm.
 
-**It is fun to be competent, and there are no shortcuts.**
+---
 
-Productivity matters, but only when have _earned_ the ability through our (mis)adventures in software development, _maintenance,_ and deep understanding of good design. We can _decide_ when to integrate AI into our workflows in ways that enhance our abilities, not override our judgment.
+### **The Cost of Software is the Cost of Change**
+
+Given that the [cost of software is roughly equivalent to the cost of change](https://www.youtube.com/watch?v=ZHpQs46xizQ) (Kent Beck), we should aim to preserve **optionality**—the ease of change in software design. AI, in my experience, is **bad at** this and often an accelerant to tech debt.
+
+Unless we draw on our experience to identify where starry-eyed expediency is replacing good design, we risk letting AI compromise our codebases—and with it, our understanding and agency. Delivery grinds to a halt the moment we need to debug or change the code, and we slowly create less intentional user experiences we won’t realise are broken until it’s too late.
+
+---
+
+### **What to Do? Devs Against Entropy**
+
+As developers in this shifting technical and internal-political landscape, we must guard against our own hard-earned skills being undermined. That means knowing what decoupled design looks like—and **advocating** for it—collaborating across our orgs to preserve the foundations of long-term product success.
+
+> A team losing its grasp on changeability is a team losing agency. On a long enough timeline, that’s how a product dies.
+
+---
+
+### **It’s Fun to Be Competent**
+
+I don’t think the productivity gains we get from AI will be that transformational when maintaining a mature codebase. We still need to solve problems ourselves—only now with the added overhead of reviewing and second-guessing AI’s potentially ruinous output. We don’t get off that easy.
+
+While human nature seeks the easy path, there are no shortcuts to becoming **competent** at software design. That competence will be even more important, not less, for working effectively **with** AI—acting as studious **Lead Developers** reviewing its output to serve our own ends.
+
+That is, until the organisation is fully weaned off humans altogether.
+
+We have a responsibility **to ourselves** not to become dependent. Otherwise, we’re choosing learned helplessness—not expediency, pace, or productivity. Those are lesser goals.
+
+Real productivity starts with intentionality: knowing what is valuable. Consider what we **want** a solution to look like and the user to experience, before using the assistant to help create it.
+
+---
+
+### **The Call of Autocomplete**
+
+Pause here. Are we **in this moment** choosing to forego learning?
+
+Will we—or our colleagues—need to pay for that later or try to make sense of it? If so, are we happy with that cost?
+
+It’s been personally unsettling—amusing, even—to notice this creeping in. Reflexively **expecting** a solution to (often incorrectly) appear, and having to stay diligent to resist the temptation.
+
+Here’s a thought: turn it off.
+
+We may need to hold our nerve—just for a moment—against the background noise of urgency.
+
+We must remember that, in that choice point, the organisation’s goals are impersonal: to maximise productivity and efficiency by any means necessary. An attempt to capture a first-mover advantage; a shot at any potential benefit in the name of **speeding up** delivery (or, more palatably, ‘increasing pace’) **for the business**.
+
+That’s fine—it’s in their DNA, and it’s their responsibility.
+
+But **we**, as makers, have a responsibility to ourselves to maintain technical fitness and effectiveness with debugging skills; to retain the self-mastery to learn hard things and solve problems **ourselves,** using tools in **support** of that goal.
+
+---
+
+### **The Humanity!**
+
+The current thinking appears to be: once the hype of "vibe coding" fades and reveals its limits in any scaled product, we’ll be left with the lesson of why AI should be used with caution—always in service of our _own_ vision of good software design.
+
+In the end, AI is most powerful when wielded by those who have _earned_ that right through the (mis)adventures of software development and _maintenance;_ those who can choose _when_ and _how_ to use it—in support of, not as a replacement for, their judgment.
+
+---
+
+Let me know if you'd like this exported as a formatted file or published as a blog post!
