@@ -108,17 +108,17 @@ Pause here. Are we **in this moment** choosing to forego learning?
 
 Will we—or our colleagues—need to pay for that later or try to make sense of it? If so, are we happy with that cost?
 
-It’s been personally unsettling—amusing, even—to notice this creeping in. Reflexively **expecting** a solution to (often incorrectly) appear, and having to stay diligent to resist the temptation.
+It’s been personally unsettling to notice this creeping in. Reflexively **expecting** a solution to (often incorrectly) appear, and having to stay diligent to resist the temptation.
 
 Here’s a thought: turn it off.
 
 We may need to hold our nerve—just for a moment—against the background noise of urgency.
 
-We must remember that, in that choice point, the organisation’s goals are impersonal: to maximise productivity and efficiency by any means necessary. An attempt to capture a first-mover advantage; a shot at any potential benefit in the name of **speeding up** delivery (or, more palatably, ‘increasing pace’) **for the business**.
+We must remember that, in that choice point, the organisation’s goals are impersonal: to capture a first-mover advantage; a shot at any potential benefit in the name of **speeding up** delivery **for the business**.
 
-That’s fine—it’s in their DNA, and it’s their responsibility.
+That’s fine; it’s in their DNA, and it’s their responsibility.
 
-But **we**, as makers, have a responsibility to ourselves to maintain technical fitness and effectiveness with debugging skills; to retain the self-mastery to learn hard things and solve problems **ourselves,** using tools in **support** of that goal.
+But **we**, as makers, have a responsibility to ourselves and as advisors, to maintain technical fitness and effectiveness with debugging skills; to retain the self-mastery to learn hard things and solve problems **ourselves,** using tools in **support** of that goal.
 
 ---
 
@@ -126,8 +126,4 @@ But **we**, as makers, have a responsibility to ourselves to maintain technical 
 
 The current thinking appears to be: once the hype of "vibe coding" fades and reveals its limits in any scaled product, we’ll be left with the lesson of why AI should be used with caution—always in service of our _own_ vision of good software design.
 
-In the end, AI is most powerful when wielded by those who have _earned_ that right through the (mis)adventures of software development and _maintenance;_ those who can choose _when_ and _how_ to use it—in support of, not as a replacement for, their judgment.
-
----
-
-Let me know if you'd like this exported as a formatted file or published as a blog post!
+In the end, AI is most powerful when wielded intentionally having _earned_ the right through (mis)adventures of software development and _maintenance;_ when we can choose _when_ and _how_ to use it—in support of, not as a replacement for, our human judgment.
