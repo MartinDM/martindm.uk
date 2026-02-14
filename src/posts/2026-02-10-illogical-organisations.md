@@ -9,7 +9,11 @@ tags:
 
 <!-- summary -->
 
+<div class="post-intro">
+
 We might assume that all we need for right principles to be adopted is that they are _correct_ and logical. As we’ll see, when in a culture that promotes it, smart people create suboptimal systems. Correct prescriptions and judgements are sidelined if it means preservation of a prevailing system of incentives.
+
+</div>
 
 <!-- /summary -->
 

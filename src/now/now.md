@@ -2,15 +2,13 @@
 layout: layouts/base.njk
 title: Now
 templateClass: tmpl-page
-subtitle: Updated August 2025
+subtitle: Updated Feb 2026
 eleventyNavigation:
   key: Now
   order: 2
 ---
 
-Day-to-day: Senior Software Engineer at Optum.
-
-I work on building a market-leading patient management platform _EMIS-X_ for GPs and clinicians in the UK.
+Day-to-day: Leead Software Engineer at LSEG, Nottingham.
 
 ## Current picks:
 
@@ -29,9 +27,9 @@ These have stuck with me recently and informing what practices I bring to my tea
 
 Really in to audiobooks, but also rediscovering the tactile reading experience of print:
 
-- [Accelerate, Humble, Kim et al ](https://www.amazon.co.uk/Accelerate-Building-Performing-Technology-Organizations/dp/B07BLYJ4HR/ref=sr_1_1?crid=N15JPSBJQPOL&dib=eyJ2IjoiMSJ9.-OKa6PgSeYYb2VSpSVlfozaLUaZtk4zOlTr_6zA3k3Ruwx8BY2WRcnlCUJP8aj0wQNpstNV77H19-XSZp5S6wBbHeCphDIcNXJEeBl3MLkypo_8cAf2LY4x9t6b65Y-pDLjzWW8qp5MC1b4i73YciuxQ4joL6iayTJDnCaMw6-W9qgY5W3DfbUHGvw-IZZ4kqk6cKkjo5wxbzZnb7Ybb7oRGswaYy4VNIFC0uBpjOQo.CYYsgvhfHwW4eksfEoTNYJvSv4-zESYzdUZqMgS5kyI&dib_tag=se&keywords=accelerate+book&qid=1751113632&sprefix=accellerate+book%2Caps%2C173&sr=8-1)
+- [Alchemy: The Magic of Original Thinking in a World of Mind-Numbing Conformity](https://www.amazon.co.uk/Alchemy-Original-Thinking-Mind-Numbing-Conformity/dp/0753556529/ref=asc_df_0753556529?mcid=742dae5007103696b0a68eba11bb73aa&th=1&psc=1&tag=googshopuk-21&linkCode=df0&hvadid=697211257126&hvpos=&hvnetw=g&hvrand=17761539090647638298&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9194478&hvtargid=pla-918172862094&psc=1&hvocijid=17761539090647638298-0753556529-&hvexpln=0&gad_source=1)
 
-- [An Elegant Puzzle, Will Larson](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186)
+- [Leadership Strategy and Tactics: Field Manual](https://www.amazon.co.uk/Leadership-Strategy-Tactics-Field-Manual/dp/1529032970)
 
 - [Staff Engineer, Will Larson](https://staffeng.com/book)
 
@@ -43,11 +41,11 @@ Really in to audiobooks, but also rediscovering the tactile reading experience o
 
 - [A Therapeutic Journey, Alain de Botton, School of Life 💭 ](https://www.amazon.co.uk/Therapeutic-Journey-Lessons-School-Life/dp/B0C3HPJRVX/ref=sr_1_1?dib=eyJ2IjoiMSJ9.IA-RrzWno2ShpjR7JolKND6Oc27jtVhlvFQuwO7pnRvrQ5lEFxmHDHrr_eq7b6Az6zNe_ggRsVHrgE1oc9B5SHKanljqViQxWTtR06uDYObfTQM-CmjhaOeL_8QjAUWmXxpSwcNhGHLYUoqOKeRWu_0DgeLx-pYYkyrLY1HFprClRKgkGy8bLWbcXOao_7XiRub9ZZV0QhpPHU_NAuJokyRYG6K0nQ0IaLSQLRvzxhk.brADM0Ah6zKMJ1zt5zPjkXcbHtWXY1OdTxzbgLQemKU&dib_tag=se&keywords=Alain+De+Botton&qid=1740612910&s=audible&sr=1-1), Alain de Botton, School of Life
 
-Classics which I frequently reflect on and are my compass for life and work:
+Classics which I frequently reflect on and are my compass for life, leadership and technical work:
+
+- [Accelerate, Humble, Kim et al ](https://www.amazon.co.uk/Accelerate-Building-Performing-Technology-Organizations/dp/B07BLYJ4HR/ref=sr_1_1?crid=N15JPSBJQPOL&dib=eyJ2IjoiMSJ9.-OKa6PgSeYYb2VSpSVlfozaLUaZtk4zOlTr_6zA3k3Ruwx8BY2WRcnlCUJP8aj0wQNpstNV77H19-XSZp5S6wBbHeCphDIcNXJEeBl3MLkypo_8cAf2LY4x9t6b65Y-pDLjzWW8qp5MC1b4i73YciuxQ4joL6iayTJDnCaMw6-W9qgY5W3DfbUHGvw-IZZ4kqk6cKkjo5wxbzZnb7Ybb7oRGswaYy4VNIFC0uBpjOQo.CYYsgvhfHwW4eksfEoTNYJvSv4-zESYzdUZqMgS5kyI&dib_tag=se&keywords=accelerate+book&qid=1751113632&sprefix=accellerate+book%2Caps%2C173&sr=8-1)
 
 - [Atomic Habits 🍬](https://www.amazon.co.uk/Atomic-Habits-Proven-Build-Break/dp/1847941834/ref=sr_1_1_sspa?keywords=atomic+habits&qid=1572385941&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEySVZFWENFUzgySU1PJmVuY3J5cHRlZElkPUEwNzk0NTE0MUdDQ05GNFBCOU5LRSZlbmNyeXB0ZWRBZElkPUEwNzQyODU4MUZSSzJHT0EwRFhNRSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=), James Clear
-
-- [Deep Work 🧠](https://www.amazon.co.uk/Deep-Work-Focused-Success-Distracted/dp/0349411905/ref=sr_1_1?keywords=deep+work&qid=1572385887&sr=8-1), Cal Newport
 
 - [The Meditations 🔥](https://www.amazon.co.uk/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337/ref=sr_1_3?keywords=the+meditations&qid=1572385875&sr=8-3), Marcus Aurelius
 
@@ -61,23 +59,19 @@ Classics which I frequently reflect on and are my compass for life and work:
 
 ### Thinking about
 
-- Trusting in myself and my experience, and step up to the challenges I see around me. I'm developing a sense of feeling worthy of expressing myself. That nothing has to be perfect, and it's more important to _just do_, gather feedback and refine.
+- Trusting in myself and my experience, and step up to the challenges I see around me. I'm developing a sense of feeling worthy of expressing myself and having experience which serves me well to feel confident to lead others.
 
-In art, do something, and find your voice and style later. But you only _get_ to do that after repeatedly doing the thing. Writing, drawing, speaking up, articulating an idea to build influence.
-
-This gives us data on which to edit. You can't improve a blank canvas, but once there's something on it, we have data.
+This is not to assume anything I know is perfect information, but it's more important to _just do_, gather feedback and refine. As long as there's humility, respect, flexibility, we are each able to lead those around us.
 
 ## In work
 
-- How I can help my team to implement some of the ideas from Accelerate, challenge established thinking and working which no longer serve us in our journey toward CI/CD and [TBD](https://infrastructure-as-code.com/posts/pull-requests.html).
+- How I can help my team to implement some of the ideas from Accelerate, challenge established thinking and working which no longer serve us in our journey toward CI/CD and high performance. Ai is changing what we can and need to do, such that organisational boudnaries are quickly becoming obsolte. We are not ready for this as an economy.
 
-- I want to coach us to be brave enough to realise the benefits of optimising for feedback; reducing hand offs, hidden work, and latency by using long-live branches, isolating us from the current state of the system.
+- I want to coach us to be brave enough to realise the benefits of optimising for feedback; reducing hand offs, and latency introduced with long-live branches, isolating us from the current state of the system.
 
 - If there is no passion and personal investment from individuals in a team, mediocrity grows and is allowed to prevail, and infects the culture.
 
-- Inertia is all around us, and few will step up to the challenge of right action at personal risk, but that is not an exciting, impactful way to approach our work
-
-- As a _HSP_, I want to develop a reputation for consistency—not necessarily always agreeable, but predictably thoughtful, direct, and steady in how I respond and act. As a highly sensitive person, I’m acutely aware of shifts in tone, subtext, and glimpses into real emotion. These variations can cloud collaboration or introduce second-guessing in communication to me. By minimising variability in my _own_ tone and responses, I remove ambiguity ain my own responses to encourage someone to be open and straight-forward with me as well, trusting my own response as sincere and consistently honest.
+- As a [HSP](https://www.verywellmind.com/highly-sensitive-persons-traits-that-create-more-stress-4126393), I want to develop a reputation for consistency—not necessarily always agreeable, but predictably thoughtful, direct, and steady in how I respond and act. As a highly sensitive person, I’m acutely aware of shifts in tone, subtext, and glimpses into real emotion. These variations can cloud collaboration or introduce second-guessing in communication to me. By minimising variability in my _own_ tone and responses, I remove ambiguity ain my own responses to encourage someone to be open and straight-forward with me as well, trusting my own response as sincere and consistently honest.
 
 - Being deliberate with how I spend time. Having systematically cutting out much 'low value' time sinks and unplugging from social media, there is much time available. I need to be deliberate with using it to foster meaningful relationships and towards fulfilling things like developing my art skills and reflection on my goals and values
 

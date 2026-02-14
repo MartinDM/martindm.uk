@@ -7,19 +7,25 @@ eleventyNavigation:
   order: 3
 ---
 
-I'm a Software Product Engineer from Nottingham
+I'm a Lead Product Engineer at London Stock Exchange
 
 Check out what I'm _currently_ working on at my [Now](/now) page!
 
-## What I do
+### What I do
 
 I'm excited about creating and helping teams deliver excellent user experiences; building products that matter and being part of high-performing, enthusiastic teams.
 
-Lover of philosophy, engineering culture and constant personal and technical development.
+I challenge teams to outgrow their habits forged in pre-AI era, and promote working closely with users to continuously discover the and deliver high notes that make great products!
 
-I work to develop my growth mindset, and enjoy collaborative environments that allow me to work with others to build great products users love, ad uplift others.
+Lover of philosophy, engineering culture and systems-thinking.
 
-## Previous Roles
+### Previous Roles
+
+### Optum - Senior Software Engineer
+
+#### Pathway
+
+Led frontend development on Pathway, a clinically intelligent patient referral system within EMIS-X, a flagship patient care portal used across GP surgeries in the UK. Built interfaces enabling care teams to identify at-risk patients and refer them onto appropriate care pathways, supporting early intervention and improved patient outcomes.
 
 ## Vodafone (Broadband), Senior Software Engineer
 
@@ -29,7 +35,7 @@ I work to develop my growth mindset, and enjoy collaborative environments that a
 
 #### Home Office
 
-Working with Kainos and the internal product teams at HMPO, I was part of the design and React-build of a newly-improved, evolved Lost and Stolen Passport reporting service, enabling passport examiners to correctly investigate, identify and cancel compromised passports, meeting business SLAs, enabling efficient staff workflows and ensuring examiners have the right information to operate more efficiently using the new service.
+Worked with Kainos and HMPO product teams on the React-based redesign of the Lost and Stolen Passport reporting service, enabling passport examiners to efficiently investigate and cancel compromised passports while meeting business SLAs.
 
 #### Telensa
 

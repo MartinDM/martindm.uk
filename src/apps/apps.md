@@ -7,10 +7,18 @@ eleventyNavigation:
   order: 1
 ---
 
+## Person Insights Visualiser
+
+🚀 [View online →](https://datainsightsvisualiser.vercel.app/)
+💻 [Repo →](https://github.com/MartinDM/Risk-Insights-Visualiser)
+
+[![Person Insights Visualiser](/img/data-visualiser.png)](https://datainsightsvisualiser.vercel.app/)
+
+Built with Mapbox and AG Grid for sortable tables to visualise and inspect mock data about people, including address and financial insights. Interact with the table and view location insights on the map.
+
 ## Url:jam - URL Shortener
 
 🚀 [View online →](https://url-jam.vercel.app)
-
 💻[Repo](https://github.com/MartinDM/url-jam)
 
 [![URL Shortener](/img/url-jam-app.png)](https://url-jam.vercel.app)
@@ -24,7 +32,6 @@ Built with Next14 (TypeScript, Server Components), Prisma ORM, MongoDB, Zod vali
 ## JS / Typescript Calculator
 
 🚀 [View online on StackBlitz →](https://stackblitz.com/edit/martin-js-calculator?file=src%2Fmain.ts)
-
 💻[Repo](https://github.com/MartinDM/Vanilla-JS-Calculator)
 
 This project was a refreshing return to JavaScript fundamentals. I built my own patterns for managing state and manipulating the DOM, which encouraged me to think methodically about each step; especially when handling the edges of calculator operations!
@@ -36,7 +43,6 @@ It was eye-opening to see just how crucial clear naming and a clean separation o
 ## iTunes Music Artwork searcher
 
 🚀 [View online →](https://mdm-itunes-search.surge.sh/)
-
 💻[Repo](https://github.com/MartinDM/iTunes-Artwork-Searcher)
 
 [![Album posters](/img/album-artwork-search.png)](https://mdm-itunes-search.surge.sh/)
@@ -50,7 +56,6 @@ Built with React, Vite & Chakra UI components.
 ## Resource tracker
 
 🚀 [View online →](https://martin-asset-list.surge.sh/)
-
 💻 [Repo →](https://github.com/MartinDM/asset-list)
 
 [![Asset tracker](/img/asset-tracker.png)](https://martin-asset-list.surge.sh/)

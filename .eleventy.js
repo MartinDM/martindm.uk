@@ -37,12 +37,6 @@ module.exports = function (eleventyConfig) {
     breaks: true,
     linkify: true,
   })
-    .use(markdownItAnchor, {
-      level: [1, 2],
-      permalink: true,
-      permalinkClass: "direct-link",
-      permalinkSymbol: "#",
-    })
     .use(markdownItAttrs)
     .use(require("markdown-it-sup"));
   eleventyConfig.setLibrary("md", markdownLibrary);

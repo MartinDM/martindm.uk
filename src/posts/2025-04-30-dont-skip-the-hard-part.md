@@ -29,8 +29,6 @@ After all, the one thing we know about the thing we **are** building is that **i
 
 All the agile ceremonies, words, and artefacts are mere performance if they do not **assist** us in that endeavour.
 
----
-
 ### **Getting from 0–60**
 
 That said, I’m a realist. AI can, and **does** alleviate much toil in code generation: upgrading libraries, prototypes, releases, suggesting bug sources, maybe even writing tests.
@@ -46,8 +44,6 @@ Unsurprising then, that some orgs are [mandating](https://leaddev.com/culture/ai
 **Decrease costs; less hiring, maybe even cutting headcount**, putting a lot of faith in being able to do more with less, or more specifically, have better user and business _outcomes_ from it, which is quite a different thing.
 
 However, such measures this can create unintended cultural consequences where incentives become misaligned with product quality. Organisations may lose a valuable cultural advantage: the craft and consideration that go into a great product experience.
-
----
 
 ### **Fitness of AI Assistance**
 
@@ -67,8 +63,6 @@ In fact, in the short term, AI may actually _add latency_ to delivery as we lear
 
 Personally, I anticipate a coming wave of poor-quality software and frustrating user experiences becoming the norm.
 
----
-
 ### **The Cost of Software is the Cost of Change**
 
 Given that the [cost of software is roughly equivalent to the cost of change](https://www.youtube.com/watch?v=ZHpQs46xizQ) (Kent Beck), we should aim to preserve **optionality**; the ease of change in software design. Something AI in my experience, is **bad at** and can easily become an accelerant to tech debt.
@@ -77,17 +71,13 @@ AI code is a potential trap for those not previously acquainted with the challen
 
 Unless we draw on our experience to _identify_ where starry-eyed expediency is replacing good design, we risk letting AI compromise our Products and with it, our own development and agency over the codebase. Delivery grinds to a halt the moment we need to debug or change the code, and we slowly create less intentional user experiences we won’t realise are broken until it’s too late.
 
----
-
-### **What to Do? Devs Against Entropy**
+### What to Do? Devs Against Entropy
 
 As developers in this shifting technical and internal-political landscape, we must guard against our own hard-earned skills being undermined. That means knowing what decoupled design looks like, **advocating** for it and being vocal across our orgs and with peers to preserve the foundations of long-term product success.
 
 > A team losing its grasp on changeability is a team losing agency. On a long enough timeline, that’s how a product dies.
 
----
-
-### **It’s Fun to Be Competent**
+### It’s Fun to Be Competent
 
 Vibe coding is having its moment and it's uncler tome if it's going to take its place as a legitimate part of established software delivery, but for mature codebases I don’t think the productivity gains we get from AI will be that transformational...
 
@@ -102,9 +92,7 @@ That competence will be even more important, not less, for working effectively *
 
 That is, until the organisation is fully weaned off humans altogether.
 
----
-
-### The Call of Autocomplete\*\*
+### The Call of Autocomplete
 
 Pause here. Are we **in this moment** choosing to forego learning? The pressure of urgency is getting the better of us.
 
@@ -123,8 +111,6 @@ We must remember that the organisation’s goals are impersonal: to capture a fi
 That’s fine; it’s in their DNA, and it’s their obligation.
 
 But **we**, as makers and professionals, have a responsibility to ourselves, to maintain technical fitness and effectiveness with debugging skills; to retain the self-mastery to learn hard things and solve problems **ourselves,** using tools in **support** of that goal.
-
----
 
 ### The Humanity!
 

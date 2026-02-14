@@ -54,10 +54,13 @@ h4 {
 p:last-child {
   margin-bottom: 0;
 }
-.tmpl-post {
-  padding: 0 20px;
-  max-width: 75%;
+
+@media (min-width: 768px) {
+  .tmpl-post {
+    max-width: 600px;
+  }
 }
+
 p,
 .tmpl-post li {
   line-height: 1.7;
@@ -341,18 +344,16 @@ blockquote + cite {
   width: 550px;
   max-width: 100%;
 }
-.content p > a,
-.content .direct-link,
-.content li > a {
+
+.tmpl-post a {
   text-decoration: none;
   background-image: linear-gradient(to bottom, var(--cyan) 95%, transparent 0%);
   background-position: 0 95%;
   background-repeat: repeat-x;
   background-size: 10px 3px;
 }
-.content p > a:hover,
-.content .direct-link:hover,
-.content li > a:hover {
+
+.tmpl-post a:hover {
   text-decoration: none;
   background-image: linear-gradient(
     to bottom,
@@ -364,7 +365,6 @@ blockquote + cite {
   background-size: 10px 3px;
 }
 .content p > a:hover,
-.content .direct-link:hover,
 .content li > a:hover {
   color: black;
 }
@@ -393,6 +393,10 @@ blockquote + cite {
   color: var(--content);
 }
 
+.tmpl-post .post-intro {
+  padding: 20px 0;
+}
+
 @media (min-width: 1200px) {
   .post-list {
     padding-right: 20%;
@@ -406,6 +410,7 @@ blockquote + cite {
   margin-bottom: 0;
   padding-left: 8px;
 }
+
 .post-date {
   display: block;
   font-size: 0.8rem;
