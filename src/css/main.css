@@ -281,50 +281,31 @@ blockquote + cite {
     text-align: right;
   }
 }
-.nav-item {
+
+.nav-item.subscribe-link a {
+  border-radius: 4px;
+  color: #fff;
+  background: rgb(108, 108, 108);
+  padding: 6px 14px;
+}
+
+.nav-item.subscribe-link a:hover {
+  background: #7ec4e5;
   text-decoration: none;
+}
+
+.nav-item {
   display: inline-block;
-  margin-right: 1em;
+  margin-left: 12px;
+  text-decoration: none;
+}
+.nav-item a {
+  text-decoration: none;
 }
 .nav-item a:hover {
-  text-decoration: none;
-  background-image: linear-gradient(to bottom, var(--cyan) 95%, transparent 0%);
-  background-position: 0 95%;
-  background-repeat: repeat-x;
-  background-size: 10px 3px;
+  text-decoration: underline;
 }
-.nav-item a:hover:hover {
-  text-decoration: none;
-  background-image: linear-gradient(
-    to bottom,
-    var(--content) 95%,
-    transparent 0%
-  );
-  background-position: 0 95%;
-  background-repeat: repeat-x;
-  background-size: 10px 3px;
-}
-.nav-item a[href]:not(:hover) {
-  text-decoration: none;
-}
-.nav-item-active a {
-  text-decoration: none;
-  background-image: linear-gradient(to bottom, var(--cyan) 95%, transparent 0%);
-  background-position: 0 95%;
-  background-repeat: repeat-x;
-  background-size: 10px 3px;
-}
-.nav-item-active a:hover {
-  text-decoration: none;
-  background-image: linear-gradient(
-    to bottom,
-    var(--content) 95%,
-    transparent 0%
-  );
-  background-position: 0 95%;
-  background-repeat: repeat-x;
-  background-size: 10px 3px;
-}
+
 .contacts {
   padding-bottom: 12px;
   border-bottom: 1px solid #d6dce4;
