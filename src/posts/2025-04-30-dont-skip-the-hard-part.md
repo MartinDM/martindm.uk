@@ -2,6 +2,9 @@
 layout: post
 title: >
   AI Adoption; the cost of skipping the hard part
+tags:
+  - AI
+  - software development
 ---
 
 <!-- summary -->
@@ -101,7 +104,7 @@ That is, until the organisation is fully weaned off humans altogether.
 
 ---
 
-### **The Call of Autocomplete**
+### The Call of Autocomplete\*\*
 
 Pause here. Are we **in this moment** choosing to forego learning? The pressure of urgency is getting the better of us.
 
@@ -123,7 +126,7 @@ But **we**, as makers and professionals, have a responsibility to ourselves, to 
 
 ---
 
-### **The Humanity!**
+### The Humanity!
 
 The current thinking appears to be: once the hype of "vibe coding" fades and reveals its limits in any scaled product, we’ll be left with the lesson of why AI should be used with caution. Always in service of our _own_ vision of good software design.
 

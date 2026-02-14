@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  🧠 Thoughts: Self-trust as a developer
+  Thoughts: Self-trust as a developer
 tags: work, personal, reflection, boundaries, professional development
 category: self notes
 ---

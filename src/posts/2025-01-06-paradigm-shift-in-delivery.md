@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  ▶️ A Paradigm shift in Software; Optimising for Fast Feedback
+  A Paradigm shift in Software; Optimising for Fast Feedback
 tags: software delivery, devops, value streams, team topologies
 category: work
 ---

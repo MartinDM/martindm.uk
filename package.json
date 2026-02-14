@@ -30,6 +30,7 @@
     "markdown-it-anchor": "^5.2.5"
   },
   "dependencies": {
-    "markdown-it-attrs": "^4.1.6"
+    "markdown-it-attrs": "^4.1.6",
+    "markdown-it-sup": "^2.0.0"
   }
 }

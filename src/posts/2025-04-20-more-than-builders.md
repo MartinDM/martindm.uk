@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  👨‍💻 More Than Builders: Redefining Engineering Impact with AI
+  More Than Builders: Redefining Engineering Impact with AI
 ---
 
 <!-- summary -->
@@ -24,7 +24,7 @@ Irrespective of to what extent maintainability; scalability of these apps is eve
 
 We are forced to confront truths about what this _means_ for us as creative, problem solvers.
 
-**Devs; Product leaders**
+### Devs; Product leaders\*\*
 
 Engineering skill has found its higher purpose. To become a new type of high-agency operator at any seniority.
 

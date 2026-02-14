@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-  🛳️ Developers as Product Engineers; less ceremony, more shipping
+  Developers as Product Engineers; less ceremony, more shipping
 tags: software delivery, product, empowerment, product engineering
 category: work,product
 ---

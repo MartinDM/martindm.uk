@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ⚡ Clear is Kind
+title: Clear is Kind
 ---
 
 <!-- summary -->
@@ -36,7 +36,7 @@ This [article](https://brenebrown.com/articles/2018/10/15/clear-is-kind-unclear-
 
 I love this framing; being straightforward, is an act of care, but it can be easy to make the mistake of avoiding sharing honest feedback because it's uncomfortable, even if, on the other side, we both show and gain respect by _how_ we give that feedback.
 
-## Managing snowflakes
+### Managing snowflakes
 
 The space of developing software is hugely sensitive to feelings, despite what we might think of as a rational, logical field.
 
@@ -51,7 +51,7 @@ I guess I was compelled to write this to work-through my thoughts on getting cla
 I’ve come to not only insist on others being clear and candid, but am mindful to extend it, respectfully to others.
 
 <blockquote>
-    Clarity is a way of saying, “I see you, and I want to help you succeed. I’m on your side, and this is what I expect.”
+Clarity is a way of saying, “I see you, and I want to help you succeed. I’m on your side, and this is what I expect.”
 </blockquote>
 
 As someone who identifies as at least somewhat neurodivergent, it’s refreshing and a means of building familiarity for me; to have space for open communication between manager-report, and express _with clarity_ the small efforts which have an out-sized impact on our peace of mind and self-assuredness.
@@ -62,7 +62,7 @@ We can then hear what was said as what was meant; because we’ve done the work 
 
 This itself requires a little forethought on _our part_ to be clear in how we help others - particularly our engineering managers and mentors, to communicate and best support us.
 
-**Directness and clarity empowers teams**
+### Directness and clarity empowers teams
 
 A culture of direct-ness and safety - proven consistently in actions and messaging from the organisation and between managers and their reports - protects teams and individuals from burnout and enables the conditions for experimentation and collaboration.
 
@@ -72,9 +72,9 @@ Trust has to be _consistently_ signalled at all levels, and felt by individuals 
 
 It’s valuable precisely _when_ it is tested and demonstrated as real.
 
-**As Engineering Managers and Reports**
+### As Engineering Managers and Reports
 
-I have had the fortune of a supportive engineering manager; a coach, confidant and role model in boldly *making sh*t happen\* that I can bring to my role as an Engineer and mentor.
+I have had the fortune of a supportive engineering manager; a coach, confidant and role model in boldly _making sh\*t happen_ that I can bring to my role as an Engineer and mentor.
 
 As a result of clear communication, I have confidence and expectation that leaders are there to support my own best interests and well-being; where all career topics - formerly ‘vulnerable’ topics such as burnout or considerations of moving on - can be worked through safely before they’re a problem.
 

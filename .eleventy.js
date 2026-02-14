@@ -6,6 +6,7 @@ const pluginNavigation = require("@11ty/eleventy-navigation");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const markdownItAttrs = require("markdown-it-attrs");
+const markdownItSup = require("markdown-it-sup");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -18,7 +19,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
-      "dd LLL yyyy"
+      "dd LLL yyyy",
     );
   });
 
@@ -42,7 +43,8 @@ module.exports = function (eleventyConfig) {
       permalinkClass: "direct-link",
       permalinkSymbol: "#",
     })
-    .use(markdownItAttrs);
+    .use(markdownItAttrs)
+    .use(require("markdown-it-sup"));
   eleventyConfig.setLibrary("md", markdownLibrary);
 
   // Browsersync Overrides
@@ -90,7 +92,7 @@ module.exports = function (eleventyConfig) {
 function extractExcerpt(article) {
   if (!article.hasOwnProperty("templateContent")) {
     console.warn(
-      'Failed to extract excerpt: Document has no property "templateContent".'
+      'Failed to extract excerpt: Document has no property "templateContent".',
     );
     return null;
   }

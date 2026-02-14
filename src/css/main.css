@@ -30,7 +30,7 @@ html {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
   line-height: 1.7;
-  font-size: 1.1rem;
+  font-size: 16px;
 }
 @media (min-width: var(--bp1)) {
   body,
@@ -45,7 +45,7 @@ h2 {
   font-size: 1.3rem;
 }
 h3 {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
 }
 h4 {
   font-size: 0.9rem;
@@ -54,13 +54,40 @@ h4 {
 p:last-child {
   margin-bottom: 0;
 }
+.tmpl-post {
+  padding: 0 20px;
+  max-width: 75%;
+}
 p,
 .tmpl-post li {
   line-height: 1.7;
 }
 
 .tmpl-post p {
-  font-size: 20px;
+  font-size: 18px;
+}
+
+.content .tmpl-post h3 {
+  border-left: 3px solid var(--cyan);
+  padding-left: 8px;
+  margin: 12px 0;
+  margin-top: 20px;
+}
+
+.content {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr;
+  font-weight: 300;
+  justify-content: center;
+  h2,
+  h3,
+  h4 {
+    margin-bottom: 0.5rem;
+    + p {
+      margin-top: 0.5rem;
+    }
+  }
 }
 
 a[href] {
@@ -89,10 +116,10 @@ table th {
 }
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
-    "Courier New", Courier, monospace;
+  font-family:
+    Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console",
+    "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono",
+    "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
   line-height: 1.5;
 }
 pre {
@@ -322,24 +349,10 @@ blockquote + cite {
     grid-template-areas: "nav nav" "bio content";
   }
 }
-.content {
-  display: grid;
-  gap: 1em;
-  grid-template-columns: 1fr;
-  font-weight: 300;
-  h2,
-  h3,
-  h4 {
-    margin-bottom: 0.5rem;
-    + p {
-      margin-top: 0.5rem;
-    }
-  }
-}
 
 @media (min-width: 768px) {
   .content {
-    padding-top: 0.5em;
+    padding: 0 16px;
   }
 }
 
@@ -416,7 +429,7 @@ blockquote + cite {
   display: block;
   font-size: 0.8rem;
   color: var(--darkgray);
-  padding: 0 0 1em 0;
+  padding: 0;
 }
 .page-title {
   font-size: 32px;
@@ -490,9 +503,17 @@ blockquote + cite {
   }
 }
 
-.post-footer {
-  font-weight: bold;
-  font-size: 16px;
-  padding: 14px;
-  background: var(--cyan);
+.post-script {
+  padding-top: 30px;
+  margin-top: 30px;
+  border-top: 1px solid var(--darkgrey);
+}
+
+.post-script h4 {
+  border-left: 3px solid var(--cyan);
+  padding-left: 8px;
+}
+
+.footnote-intro {
+  font-style: italic;
 }

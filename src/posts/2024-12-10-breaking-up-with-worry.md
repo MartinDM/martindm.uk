@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 🛶 Breaking up with worry
+title: Breaking up with worry
 tags: self care, careers
 category: work
 ---
