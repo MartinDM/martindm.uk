@@ -1,5 +1,7 @@
 const { DateTime } = require("luxon");
 const fs = require("fs");
+const path = require("path");
+const sass = require("sass");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSyntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const pluginNavigation = require("@11ty/eleventy-navigation");
@@ -28,7 +30,26 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addPassthroughCopy("./src/img");
-  eleventyConfig.addPassthroughCopy("./src/css");
+  
+  // Compile SCSS files
+  eleventyConfig.addTemplateFormats("scss");
+  eleventyConfig.addExtension("scss", {
+    outputFileExtension: "css",
+    compile: async function(inputContent, inputPath) {
+      // Only process files in src/css directory
+      const parsedPath = path.parse(inputPath);
+      if (parsedPath.dir.indexOf(path.join("src", "css")) === -1) {
+        return;
+      }
+      
+      return async (data) => {
+        const result = sass.compile(inputPath, {
+          style: "expanded",
+        });
+        return result.css;
+      };
+    },
+  });
 
   /* Markdown Overrides */
   let markdownLibrary = markdownIt({

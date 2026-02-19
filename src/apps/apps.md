@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Apps
-templateClass: tmpl-page
+templateClass: page-content
 eleventyNavigation:
   key: Apps
   order: 1

@@ -26,7 +26,8 @@
     "@11ty/eleventy-plugin-rss": "^1.0.7",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "luxon": "^1.21.3",
-    "markdown-it": "^14.1.0"
+    "markdown-it": "^14.1.0",
+    "sass": "^1.77.0"
   },
   "dependencies": {
     "markdown-it-attrs": "^4.1.6",

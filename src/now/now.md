@@ -1,7 +1,7 @@
 ---
 layout: layouts/base.njk
 title: Now
-templateClass: tmpl-page
+templateClass: page-content
 subtitle: Updated Feb 2026
 eleventyNavigation:
   key: Now

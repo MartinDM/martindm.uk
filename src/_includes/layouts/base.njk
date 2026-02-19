@@ -20,9 +20,9 @@
   <body>
     <div class="grid-wrapper">
       <ul class="nav">
-        <li class="nav-item subscribe-link"><a href="https://buttondown.com/martindm">Subscribe</a></li>
+        <li class="nav-item nav-item--subscribe"><a href="https://buttondown.com/martindm">Subscribe</a></li>
         {%- for entry in collections.all | eleventyNavigation %}
-          <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
+          <li class="nav-item{% if entry.url == page.url %} nav-item--active{% endif %}"><a href="{{ entry.url | url }}">{{ entry.title }}</a></li>
         {%- endfor %}
       </ul>
       <header class="bio">
