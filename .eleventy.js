@@ -35,6 +35,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addTemplateFormats("scss");
   eleventyConfig.addExtension("scss", {
     outputFileExtension: "css",
+    compileOptions: {
+      permalink: "raw",
+    },
     compile: async function(inputContent, inputPath) {
       // Only process files in src/css directory
       const parsedPath = path.parse(inputPath);
@@ -104,33 +107,44 @@ module.exports = function (eleventyConfig) {
 };
 
 function extractExcerpt(article) {
-  if (!article.hasOwnProperty("templateContent")) {
-    console.warn(
-      'Failed to extract excerpt: Document has no property "templateContent".',
-    );
+  // In Eleventy v3, templateContent may not be available when shortcode runs (e.g. in list views).
+  // Use rawInput (raw template source) when templateContent is not yet ready.
+  let content = null;
+  try {
+    if (Object.prototype.hasOwnProperty.call(article, "templateContent")) {
+      content = article.templateContent;
+    }
+  } catch (_) {
+    // templateContent not ready yet (TemplateContentPrematureUseError in v3)
+  }
+  if (!content && article.rawInput) {
+    content = article.rawInput;
+  }
+  if (!content) {
     return null;
   }
 
-  let excerpt = null;
-  const content = article.templateContent;
-
-  // The start and end separators to identify the excerpt
-  const separatorsList = [
-    { start: "<!-- summary -->", end: "<!-- /summary -->" },
-    { start: "<p>", end: "</p>" },
-  ];
-
-  separatorsList.some((separators) => {
-    const startPosition = content.indexOf(separators.start);
-    const endPosition = content.indexOf(separators.end);
-
-    if (startPosition !== -1 && endPosition !== -1) {
-      excerpt = content
-        .substring(startPosition + separators.start.length, endPosition)
-        .trim();
-      return true; // Exit out of array loop on first match
+  const isHtml = content.includes("<p>");
+  // 1. Explicit summary comment (works in both HTML and markdown)
+  const summaryStart = content.indexOf("<!-- summary -->");
+  const summaryEnd = content.indexOf("<!-- /summary -->");
+  if (summaryStart !== -1 && summaryEnd !== -1) {
+    return content
+      .substring(summaryStart + "<!-- summary -->".length, summaryEnd)
+      .trim();
+  }
+  // 2. First HTML paragraph
+  if (isHtml) {
+    const pStart = content.indexOf("<p>");
+    const pEnd = content.indexOf("</p>", pStart);
+    if (pStart !== -1 && pEnd !== -1) {
+      return content.substring(pStart + 3, pEnd).trim();
     }
-  });
-
-  return excerpt;
+  }
+  // 3. First paragraph in raw markdown (text before double newline)
+  const firstParaEnd = content.indexOf("\n\n");
+  if (firstParaEnd !== -1) {
+    return content.substring(0, firstParaEnd).trim();
+  }
+  return content.trim() || null;
 }

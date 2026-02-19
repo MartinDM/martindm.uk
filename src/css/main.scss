@@ -207,13 +207,16 @@ header {
   &--subscribe {
     a {
       border-radius: 4px;
-      color: #fff;
+      color: var(--white);
       background: var(--teal);
       padding: 6px 14px;
       
       &:hover {
         background: var(--teal-dark);
         text-decoration: none;
+      }
+      &:visited{
+        color: white;
       }
     }
   }
